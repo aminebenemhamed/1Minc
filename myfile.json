@@ -34,6 +34,26 @@
             "categorie":"أكشن",
             "studio":"",
             "img": "https://pic.egybest.net/i/RHNhSUNlY21MTm1tRW1ZYm12RWNtYm1wSWx2Y21FbW1tbQ.jpg"
+        },
+  
+ {
+            "name": "الكون في كفة",
+            "description": "تتلذذ شمور عندما تشعر بأن أحدا يحتاجها، فسعادتها تكمن في الانغماس في جبروتها. حكاية تسردها ابنة أخيها التي طالها وعائلتها تسلط عمتها.",
+            "Rating": "8.11",
+            "episode": 148,
+            "categorie":"عائلي، دراما، رومانسي",
+            "studio":"",
+            "img": "http://giftcard-free.store/Moad/01.png"
+        },
+   {
+            "name": "هيا وبناتها",
+            "description": "تقوم عائلة هيا بتزويجها لرجل مسن للتستر على فضيحة طالتها، وبعد أن تصبح أماً لخمس بنات، يعود ماضيها لملاحقتها مهددا علاقتها ببناتها.",
+            "Rating": "8.11",
+            "episode": 148,
+            "categorie":"عائلي، دراما، اجتماعي",
+            "studio":"",
+            "img": "http://giftcard-free.store/Moad/02.png"
         }
+  
 
     ]
