@@ -1,7 +1,7 @@
 [
         {
             "name": "Assault lily bouquet",
-            "description": "On Earth in the near future, humanity faced imminent destruction from mysterious giant creatures known as "Huge." The entire world unites against the Huge, and successfully develops weaponry known as "CHARM" (Counter Huge Arms) by combining science and magic. CHARM exhibits high rates of synchronization with teenaged girls, and the girls who use CHARM are viewed as heroes called "Lilies." Throughout theworld, "Garden" military academies are established to train Lilies to face the Huge and to serve as bases to protect and guide people. This is a story about fighting girls who aim to become Lilies at one such Garden.",
+            "description": "On Earth in the near future, humanity faced imminent destruction from mysterious giant creatures known as Huge. The entire world unites against the Huge, and successfully develops weaponry known as CHARM (Counter Huge Arms) by combining science and magic. CHARM exhibits high rates of synchronization with teenaged girls, and the girls who use CHARM are viewed as heroes called Lilies. Throughout theworld, Garden military academies are established to train Lilies to face the Huge and to serve as bases to protect and guide people. This is a story about fighting girls who aim to become Lilies at one such Garden.",
             "Rating": "0.0",
             "categorie":"Action, Fantasy, Magic",
             "studio":"",
@@ -9,7 +9,7 @@
         },
         {
             "name": "18IF",
-            "description": "After going to sleep like normal, Haruto Tsukishiro wakes up to discover something unbelievable—he's stuck in dream world! Here, witches plague the dreamscape and are more than dreamy figments—they're the trapped souls of young women who've rejected reality and are afflicted by the "Sleeping Beauty Syndrome." As he searches for a way out, Haruto will face the witches and their terrifying powers",
+            "description": "After going to sleep like normal, Haruto Tsukishiro wakes up to discover something unbelievable—he's stuck in dream world! Here, witches plague the dreamscape and are more than dreamy figments—they're the trapped souls of young women who've rejected reality and are afflicted by the Sleeping Beauty Syndrome. As he searches for a way out, Haruto will face the witches and their terrifying powers",
             "Rating": "0.0",
              "categorie":"Drama, Horror, Supernatural",
             "img": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/243_63720665667174740518-If_Small_hq.jpg"
@@ -38,7 +38,7 @@
         },
    {
             "name": "A3!",
-            "description": "In a city called Veludo in the suburbs of Tokyo, there is a street called "Veludo way". Many theatre troupes are based there, making it a mecca for comedians. Izumi Tachibana receives a letter leading her to the Mankai company. That's where she learns that her own father founded it. However, he is nowhere to be found. Besides, she learns that the company does not have any patron, is riddled with debts and only has one member. Willing to put the company back on its feet, Isumi perseveres and fights her way to the head and management of the theatre. What is to become of the Mankai company?",
+            "description": "In a city called Veludo in the suburbs of Tokyo, there is a street called Veludo way. Many theatre troupes are based there, making it a mecca for comedians. Izumi Tachibana receives a letter leading her to the Mankai company. That's where she learns that her own father founded it. However, he is nowhere to be found. Besides, she learns that the company does not have any patron, is riddled with debts and only has one member. Willing to put the company back on its feet, Isumi perseveres and fights her way to the head and management of the theatre. What is to become of the Mankai company?",
             "Rating": "8.59",
             "categorie":"Comedy, Music, Slice of Life",
             "img": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/285_637262738919899365A3_Small_hq.jpg"
@@ -147,6 +147,6 @@
             "Rating": "0.0",
             "categorie":"Action, Alternate history, Comedy, Drama, Fantasy, Mecha, Original, Romance, Sci-Fi",
             "img": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/268_637340495310050044Aquarion_Logos_Small_hq.jpg"
-        },
+        }
   
     ]
