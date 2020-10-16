@@ -231,6 +231,225 @@
             "Rating": "8.5",
             "categorie":"Animation, Action, Adventure",
             "img": "https://m.media-amazon.com/images/M/MV5BNmE2M2UxNGQtNmUxOC00ZTcxLTkwN2UtNzA4NzU0ZDQ2ZGU1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UY209_CR3,0,140,209_AL_.jpg"
+        },
+        {
+            "name": "The Seven Deadly Sins",
+            "description": "When a kingdom is taken over by tyrants, the deposed princess begins a quest to find a disbanded group of evil knights to help take back her realm.",
+            "Rating": "0.0",
+            "categorie":"Action, Fantasy, Magic",
+            "studio":"",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfgOMOxgESHD4TSeRBam0D9LJOn1_2PaBRfTk2FVtZEOpA4waumDUm6jSbFCxmISFR_UXoxYJtIhr7z7r-0QSd4LSZn5C35bnns0RXR900JNFCfyMtaiNUbVc-OD.jpg?r=bae"
+        },
+        {
+            "name": "BAKI",
+            "description": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on.",
+            "Rating": "0.0",
+             "categorie":"Drama, Horror, Supernatural",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaN22ejU_36I_Xv514rFdeBjOTFPNtnuu0n8IZx4yp0oNgHwcB6FWU16kdR1geYDOxy-pxagxjdfFWISjJ6ZeNQ-4oux6Mkip5SeBApaQ-ii0uzuE1-nNgYc-8cG.jpg?r=37b"
+        },
+        {
+            "name": "Kakegurui",
+            "description": "High roller Yumeko Jabami plans to clean house at Hyakkaou Private Academy, a school where students are evaluated solely on their gambling skills.",
+            "Rating": "6.32",
+            "categorie":"Music, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfhD6VhazeV2nHojAUTpxsF2dcAX1V7P7pDlacGrJtApgUqMt6_9FAoKcTLEEDyCW_sVkO_S_I1zIf4KB2QnA1IhkGq5PVh_-tmTgSAZPJ0Srim4MDaLWxL3oeJj.jpg?r=b8c"
+        },
+        {
+            "name": "One-Punch Man",
+            "description": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "Rating": "6.96",
+            "categorie":"Magic, Romance",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbB6uYk4hPPL3maKQHbxI-J4JG28n8WaXRpOS1zeS8xbV0P2SMJOZ8HJfcraVcKGTZ9inva7Gvtcy8QG0dnZWfraDso.jpg?r=36a"
+        },
+  
+ {
+            "name": "KENGAN ASHURA",
+            "description": "Ohma Tokita enters a hidden world where corporate disputes are settled in brutal gladiator bouts. Forget the money, he just wants to fight -- and win.",
+            "Rating": "8.11",
+            "categorie":"Comedy, Ecchi, Romance, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe1qe2U3Bqh0MCZ7iRyAypa8bYITOUVpjr3afYHwIQGBH4FZ4LsjfLO9SPIflpMS_ymhseF6mhWc3IFBmtpDMnRFCecZJ0Qqr2dB-AjvCeoa0VR1_DddHa0gXSbC.jpg?r=29a"
+        },
+   {
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "description": "After both suffer physical damage -- brothers Edward and Alphonse battle nefarious forces to try to reclaim their bodies in this supernatural anime.",
+            "Rating": "8.59",
+            "categorie":"Comedy, Music, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc7ExcLD36xkSLlc_17INLpQN0EK6O-njPPF9YnJKM4FcyF6sC0NSRwlg2GXc5cTrmO57_IrzhBTwcNPylf24Txq04Y.jpg?r=615"
+        },
+    {
+            "name": "The Disastrous Life of Saiki K.",
+            "description": "High school sophomore Kusuo Saiki swore as a child that he would keep his psychic talents hidden, but his abilities still make his life difficult.",
+            "Rating": "8.00",
+            "categorie":"Action, Adventure, Ecchi, Fantasy, Magic, Romance, Supernatural",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbkPqH9v6QXCxkRpsY4dJ7pXhjOfKCKT5i4JFOIEcSIZMV-qgcnGM-2q0r49oc4gPm894UP_i6uEUYHg8LvqG_FwObU.jpg?r=81c"
+        },
+  {
+            "name": "Glitter Force",
+            "description": "Five preteen girls learn they're a legendary superhero squad known as the Glitter Force. Their mission? To defend Earth from evil fairy-tale villains.",
+            "Rating": "0.0",
+            "categorie":"Romance, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABci7Da1zL5N5LRuCJjVA-MPu4EGh8ekdtnAotiYL_KbrhnKJoTaeEgF6fEC82_AUoKVSwlJ6X2znliQ3pLQALEFWW3kKEoO3ol4CtpRqnRBJ3SM_btEqkNBuiNji.jpg?r=74d"
+        },
+  {
+            "name": "Blue Exorcist",
+            "description": "Determined to throw off the curse of being Satan's illegitimate son, Rin enters the True Cross Academy to become an exorcist, just like his mentor.",
+            "Rating": "5.79",
+            "categorie":"Comedy, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY2pb-YvhoXA-XB0SCxcgIlK0I157d_JdMfg3__7ZFgMLZXSHRs_2hTXDwtxevovTrKbGcEGUrV9SkQbXcahZTlEk8Q.jpg?r=b4c"
+        },
+    {
+            "name": "Case Closed",
+            "description": "Turned into a young boy by a sinister potion, teen sleuth Conan helps solve baffling crimes while tracking down the nefarious agents who poisoned him.",
+            "Rating": "7.80",
+            "categorie":"Adventure, Drama, Sci-Fi, Supernatural",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZSzDA3RymwWc_11DGCo3t-B3Im_QNTueG7ZrMSzPmmBe9P_oUOt3IYq9uou5tNjfsS6xNt9J809Ms8bUASSQCJKX_s.jpg?r=ba8"
+        },
+ {
+            "name": "Sword Art Online",
+            "description": "A video game whiz helps create a new technology that enables players to guide their online avatars with their own bodies -- but a dark twist emerges.",
+            "Rating": "5.00",
+            "categorie":"Comedy, Sci-Fi, Shounen",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUMjSU-BK_3pc24Xr82efRqVJD1eT-R2mlTMwh5SkTOVCnpFLlskpvIoJQM42yVBEYew2PgloDcSxEzhbtbeitJZwBQ.jpg?r=ea8"
+        },
+   {
+            "name":  "Castlevania",
+            "description": "A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself. Inspired by the classic video games.",
+            "Rating": "6.00",
+            "categorie":"Action, Comedy, Ecchi, Magic",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcJLTL1KRE896WnJUc-nmQMdGAUVERG-6cUaA1LQJ9gnHB17EWMkzxKaN30Cm50Ea9tgVI7jWtzgoNUyvXPWCbRrpZYQfC1W_FGISiVqTagFFsb8IYOtTds94q3U.jpg?r=bc1"
+        },
+   {
+            "name": "Code Geass: Lelouch of the Rebellion",
+            "description": "A high-schooler who's granted powers to make anyone instantly obedient dons a mask to lead Japan's rebellion against a long-invading Britannia.",
+            "Rating": "0.0",
+            "categorie":"Action, Adventure, Comedy, Ecchi, Supernatural",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT-_-AQ3GAD5F2aadnWMIAln_2u45362P7SCxHaDW1ZB2-9OLIqWlcMaSeZV2mFwqhUsAMiI3I2RHUyeq0byAMiWUHo.jpg?r=b95"
+        },
+  {
+            "name": "Food Wars!: Shokugeki no Soma",
+            "description": "Young chef Soma enters the prestigious Totsuki Culinary Academy, where he must emerge victorious in over-the-top cooking battles or face expulsion.",
+            "Rating": "0.0",
+            "categorie": "Action, Sci-Fi",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa-iQGmLHNfy86Uvg_dNCwZQJzZl_R5Mn1I9VeXDnWVZ5RVMMmRvoRnx-nCcPIfPz2e2eEeieAWjeYlrwPNPDNAhEjqQb_Me5TPY0YR1FDi8D8o6pIjjwvtsJpBvkIUIsA.jpg?r=ed3"
+        },
+    {
+            "name": "Toradora!",
+            "description": "Menacing in appearance but gentle at heart, Ryūji forms an unlikely friendship with Taiga, a tiny girl with a sharp tongue and a tough attitude.",
+            "Rating": "0.0",
+            "categorie":"Comedy, Seinen, Sport",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXWVYSv-3_B3my2lvLQewWpz76-_uKe2GLXauqkgdJEjEwn1TUsvzI-ptKlsyO3pfQWiFSc-mbxoB1jkHmz4MsstvCo.jpg?r=3b8"
+        },
+    {
+            "name": "Great Pretender",
+            "description": "Supposedly Japan's greatest swindler, Makoto Edamura gets more than he bargained for when he tries to con Laurent Thierry, a real world-class crook.",
+            "Rating": "8.00",
+            "categorie":"Comedy, Romance, Slice of Life",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTO1YZWzqYyLxf68Xft5dYF4E7OzqaEVDqMpl01vBEsDwj2onmIchkPwymQyzjMJ8l0lHKqzjqDyQy4NEbOVhmZuVfN_qnL_sQzG_V0tOA45wjpqE_enbYmUtW9Z.jpg?r=353"
+        },
+    {
+            "name": "Little Witch Academia",
+            "description": "Akko enrolls at the Luna Nova Witchcraft Academy. She's not the best student, but her bright attitude is the key to her and her friends' success.",
+            "Rating": "8.51",
+            "categorie":"Adventure, Horror, Supernatural, Thriller",
+            "img": "https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWSjfgtbfHn42-dOlZuo6soYlC7wcrC6eoVY3ie7I9fURAzhKWo0Ud_hfZQSmZnEAw98BCRN8zIY_GLcMz6ZRysAhxBPK81ELkX4_fIt57YcpnRmvkHPRhtMhBnu.jpg?r=45b"
+        },
+   {
+            "name": "Great Pretender",
+            "description": "Supposedly Japan's greatest swindler, Makoto Edamura gets more than he bargained for when he tries to con Laurent Thierry, a real world-class crook.",
+            "Rating": "8.23",
+            "categorie":"Comedy, Original, Slice of Life",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTO1YZWzqYyLxf68Xft5dYF4E7OzqaEVDqMpl01vBEsDwj2onmIchkPwymQyzjMJ8l0lHKqzjqDyQy4NEbOVhmZuVfN_qnL_sQzG_V0tOA45wjpqE_enbYmUtW9Z.jpg?r=353"
+        },
+   {
+            "name": "Your lie in April",
+            "description": "After his mother's death, a piano prodigy's will to play disappears. But meeting a free-spirited girl who plays the violin turns his life around.",
+            "Rating": "8.98",
+            "categorie":"Drama, Original, Romance, Supernatural",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFgMe1fqOwV5-WKh2YwfsHXunFS-oxStHePKxx6HUBeiVCNmUnqc2-UplU-BJQhRfusNst5MDmJuk4dqcjMnm5nhPo.jpg?r=4c0"
+        },
+   {
+            "name": "Vampire Knight",
+            "description": "At Cross Academy, two student disciplinary committee members are tasked with keeping the peace between a human class and a night class of vampires.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaY66-YUL02Cy_Nk0rNIlXkB3B-Pm3xMX1Q6trj4kZzbWJjSywc_XBuiDyj63JJXAs0nnSTXlZkvaDYk7S1dBhfA9oM.jpg?r=b9a"
+        },
+   {
+            "name": "Erased",
+            "description": "Satoru Fujinuma can travel back in time to save others' lives. When he wakes up 18 years in the past, he has a chance to save his murdered classmates.",
+            "Rating": "0.0",
+            "categorie":"Action, Alternate history, Comedy, Drama, Fantasy, Mecha, Original, Romance, Sci-Fi",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd_kXDk1tKII5pq4v5-CJjdy3T21iCzOQzuZVQ3obY3VwzFLKeQDJqb15imseAWsWHgwAzfKCIx5I9mkBkrhY5koHH8.jpg?r=0b7"
+        },
+   {
+            "name": "Charlotte",
+            "description": "A boy with superpowers is forced to join his peers at a special school where they can protect themselves from organizations who seek to exploit them.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaw5FV3PiXVV49D9YzbD2C7pQWVtA6EDVlJmYAkxv03PGgkCI8oHovIuoYYwBv4-up-f-ETTWic67oUBLB5SNfAdw74.jpg?r=cee"
+        },
+   {
+            "name": "Violet Evergarden",
+            "description": "The war is over, and Violet Evergarden needs a job. Scarred and emotionless, she takes a job as a letter writer to understand herself and her past.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTRRr55sKhZ9axPvhd_j-_BE7mHFyxfH0orEWL9SAls7DNkhpvV4idA0j5w1nS6tLJqV0j0x8MjO68_X5aCGoA7q_motCCs8hoRcVkkDBgfkE8LsqVQo9cprLBlZ.jpg?r=778"
+        },
+   {
+            "name": "Fullmetal Alchemist",
+            "description": "Brothers Edward and Alphonse use alchemy to resurrect their mother, but they unleash a chemical reaction that tears apart their bodies.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABb0qdm5uedfQD9LvkjsMv-BUaOpern6g6x2FBDHTAp1AWlE0rRHJk1_9mSIjEE1IizPS-_3_-2LDt2bH7mA4ArpJUdQ.jpg?r=6e7"
+        },
+   {
+            "name": "The Asterisk War",
+            "description": "new breed of powerful human -- named Ayato enrolls in a competitive school for people like him, hoping to find his missing sister",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeZHPt_SMxxxUJj8ZsnprbV56v1qWFNNotSd1QGFfzNKQckAcOp6CxHXEsJqmOAgBNxBxrxrN-WUxRIj78l0xacWz10.jpg?r=470"
+        },
+   {
+            "name": "Black Lagoon",
+            "description": "A successful Japanese businessman, presumed dead after he's abducted by pirates, reinvigorates his life by joining his captors.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaI-mP9eIlz--lgUSl3RqR0bDL37FqeDU-B-68kYtUY_Wbn1xTI75GySRLToXYoxfCI2tXk_RwrZqRJXaUt1pE08qCs.jpg?r=a93"
+        },
+   {
+            "name": "Fate/Zero",
+            "description": "After three unsettled battles for the mystical Holy Grail, an artifact that grants a miracle to those who hold it, a fourth war begins.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRIs1UWrgrIXo7ciYfAoeRtsxRoVKubJjJtoUDeyZus1yXmFEC3cvqTO1DLc-Yiwsg_ZCkn_VFITuYv-RZciBRLOvgw.jpg?r=213"
+        },
+   {
+            "name": "SWORDGAI The Animation",
+            "description": "A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcEfjMSd7arOgsQLtAnizYF3YL6Dft4Eg5AzxVvGfivQfedmqSUGjjT4Tzsre1-9mw0yqd4cMSuD3t5Rz4jWGHt2-2YlRaJpoxyfAU0mbi8iJz3BA7sHz6I0Ks6c.jpg?r=5bb"
+        },
+   {
+            "name": "Magi: Adventure of Sinbad",
+            "description": "The Magi who became High King of the Seven Seas started as a boy determined to make the world a better place. He begins with a dangerous dungeon.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRe_joOzl5DODnQPDwKQkecDGVe7LZKdE7wTOnh--R5k8v21hCVKH1dG4ZerhrqfMY1IBjM5i9nwtHA4HaDtIPHtNHVqFFs_rWY4TFVzGYz_z1i3jdkW70ZNCP_b.jpg?r=b97"
+        },
+   {
+            "name": "Neon Genesis Evangelion",
+            "description": "Fifteen years after the Second Impact, Shinji Ikari joins his father's group NERV as one of several teenage mecha pilots fighting the monstrous Angels.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdxHGCcSJrfK4S7XDX47m7HltcCBGLa3hyKPYGSfWoyCwMfoT7DW9RmRRLVEypgWUIWfQ-Jm6KgEVIfv04JJdINQC6Y.jpg?r=c4d"
+        },
+   {
+            "name": "Fate/stay night: Unlimited Blade Works",
+            "description": "High school students Rin and Shiro pair up as allies when they're chosen to compete in a secret tournament for possession of the Holy Grail.",
+            "Rating": "9.13",
+            "categorie":"Action, Adventure, Comedy, Historical",
+            "img": "https://occ-0-784-2774.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXyMvVFb9o8UtM7g6cGEovBrVSiDghcTim3Jznd3XEpHX2H4QiRyw72ECRTcqEdtw5SD79r-xuUjZaMOwgxF1RkD85Y.jpg?r=237"
         }
   
     ]
