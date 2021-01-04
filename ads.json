@@ -2,6 +2,7 @@
 	"GuideData": {
 
 		"AdsController": {
+			
 			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -14,7 +15,9 @@
 			
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/05iexh4.png",
-			"LinkCpa" : "https://google.com/"
+			"LinkCpa" : "https://google.com/",
+			
+			"watchNow": true
 			
 		}
 
