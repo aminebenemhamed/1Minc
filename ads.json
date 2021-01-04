@@ -10,7 +10,12 @@
 
 			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
 			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163",
-			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082"
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			
+			"Cpa": true,
+			"ImageUrl": "https://i.imgur.com/N9osQ0m.jpg",
+			"LinkCpa" : "https://google.com/"
+			
 		}
 
 	}
