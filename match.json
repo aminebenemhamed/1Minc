@@ -30,5 +30,24 @@
             "img": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/210_637372454520476745Assault-Lily-Bouquet_Small_hq.jpg"
         }
   
-    ]
+    ],
+{
+	"DATA" : {
+
+		"AdsController":
+			{
+				"NetworkAds":"facebook",
+
+				"BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+				"InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+				"NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+
+				"BannerFacebook":"IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
+				"InterstitialFacebook":"IMG_16_9_APP_INSTALL#540355099982459_540355129982456",
+				"NativeFacebook":"IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			}
+
+	} 
+}
+
 
