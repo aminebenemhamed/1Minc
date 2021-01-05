@@ -321,6 +321,169 @@
 	 "name": "Top Gun: Maverick (2021)",
 	 "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
 	 "img": "https://m.media-amazon.com/images/M/MV5BNTEyYTA5YWYtYmIxYS00NWRlLWExNjMtNjliZmVlZDgxNTBlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR1,0,140,209_AL_.jpg"
- }
+ },
+ {
+	 "name" : "Minions: The Rise of Gru (2021)",
+	 "description" : "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Zola (2020)",
+	 "description" : "A stripper named Zola embarks on a wild road trip to Florida.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMTE3MWY3NjgtYjcxMC00MWJiLTg4MGItZjZjNzQxNDYzZGM2XkEyXkFqcGdeQXVyODE2NzEwNzA@._V1_UY209_CR103,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Shang-Chi and the Legend of the Ten Rings (2021)",
+	 "description" : "The movie, based on Marvel Comics, will focus on Shang-Chi; 'The Master of Kung-Fu'.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMzliODAyMjYtYzAxYy00ZGE5LTk5NmItYjE3N2RlZmNlNTBiXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "The Forever Purge (2021)",
+	 "description" : "Plot unknown. The fifth and final installment of 'The Purge' film series.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BYzg0YTdiY2EtNWRmYy00YjVmLWEwZjQtMGJiZjM3ZmQ1ZWJmXkEyXkFqcGdeQXVyMTE1NzAyODI3._V1_UY209_CR8,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Uncharted (2021)",
+	 "description" : "The story is a prequel to the games, starring Holland as a younger Drake, showing us details of how he came to meet and befriend Sully.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BOTZjZWZhMTAtYTAxZS00ZDMwLWE0YzEtMzFkNzdhZjc5OGQ0XkEyXkFqcGdeQXVyNjI5MDc2MjU@._V1_UY209_CR4,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Space Jam: A New Legacy (2021)",
+	 "description" : "NBA superstar LeBron James teams up with Bugs Bunny and the rest of the Looney Tunes for this long-awaited sequel.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BZTE3YjBlMzAtYmQ2OS00Yjg0LWJkM2MtZmYzZjcwZjRjOTA2XkEyXkFqcGdeQXVyMTAzMDc3MzIx._V1_UY209_CR34,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Barb and Star Go to Vista Del Mar (2021)",
+	 "description" : "A pair of best friends find themselves in over their heads.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BODI2ZmMyZjgtMjVlZi00ZTJmLThmZTQtMWFiOTUzNThkNjM3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Old (2021)",
+	 "description" : "Plot kept under wraps.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMzUzYjhkZWMtMzE1NS00YjUxLTliOTItN2FkOWUyY2U2YzhiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "The Tomorrow War (2021)",
+	 "description" : "A man is drafted to fight in a future war where the fate of humanity relies on his ability to confront his past.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BNGQ5M2RjMTgtZmU1Mi00NzNjLTg3YTEtZWJiZjY4MGZlYTU1XkEyXkFqcGdeQXVyMjM2MjU5Mzg@._V1_UY209_CR67,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Jungle Cruise (2021)",
+	 "description" : "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BZWFiZTM4ZDUtNzU0My00YmYxLWEzMDQtNzkxMzJhYmNiMTE3XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "The Green Knight (2021)",
+	 "description" : "A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BNWE1ZGE5Y2QtYWE4Yi00YjM0LThhNWYtMWM1OGJjNDU3YzMyXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Candyman (2021)",
+	 "description" : "A spiritual sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BNTU5NDM5YmUtOTdkMi00NTNiLThiMDgtN2E5OTYxYTQ5OWI2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Respect (2021)",
+	 "description" : "The life story of legendary R&B singer, Aretha Franklin.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BNWU2NTZkNzktYjU3OS00MWE0LTgxN2ItNDU5MzM0NmM3OTdjXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY209_CR13,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Jackass (2021)",
+	 "description" : "After ten years, the Jackass crew is back for their final crusade.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMjY1NDY0MmItZjk5My00ZjY3LTg5NzUtZDllOGQzYzk3ZWVhXkEyXkFqcGdeQXVyNDYxOTg1MTI@._V1_UY209_CR116,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "Death on the Nile (2021)",
+	 "description" : "While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMjYzMWQ2NWQtZGJkOC00ZWYzLThhMmMtZDdmNGM4NzEyNmU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "The Boss Baby: Family Business (2021)",
+	 "description" : "The Templeton brothers have become adults and drifted away from each other, but a new boss baby with a cutting-edge approach is about to bring them together again - and inspire a new family business.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BMGRhY2FhMjctM2I5ZC00NDEzLTk5NGYtOWRmMjc4N2IxZDdhXkEyXkFqcGdeQXVyNDg1MjQ2MzQ@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ }, {
+	 "name" : "The Man from Toronto (2021)",
+	 "description" : "The world's deadliest assassin and New York's biggest screw-up are mistaken for each other at an Airbnb rental.",
+	 "img" : "https://m.media-amazon.com/images/M/MV5BYzZmNTAwZGMtZTQ0OS00ZjkyLWFiMDAtYzUzZjk2ODQxMDM2XkEyXkFqcGdeQXVyMTAzNTkwODkw._V1_UY209_CR86,0,140,209_AL_.jpg"
+ },
+  {
+	 "name" : "The Addams Family 2 (2021)",
+	 "description" : "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters. Sequel to the 2019 animated film, The Addams Family.",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ }, {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
+  {
+	 "name" : "",
+	 "description" : "",
+	 "img" : ""
+ },
 
 ]
