@@ -161,6 +161,166 @@
 		"name": "My Salinger Year (2020)",
 		"description": "A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.",
 		"img": "https://m.media-amazon.com/images/M/MV5BYmNkZWExMjEtODRkMi00ZGRlLWFjYjktMGQ0NzM1MGE0YmYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR3,0,140,209_AL_.jpg"
-	}
+	},
+ {
+	 "name": "The King's Man (2021)",
+	 "description": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BZGE2MmQ0ZTEtM2FjOC00OTE1LTlmYjMtYjlkMzllN2RlOTBiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "The Many Saints of Newark (2021)",
+	 "description": "A look at the formative years of New Jersey gangster, Tony Soprano.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMjYyYTNhMzktNDIwMi00NWFlLWFkMjQtY2RkZjEyNjVkYmMzXkEyXkFqcGdeQXVyODg3NzA4NTA@._V1_UY209_CR9,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Come True (2020)",
+	 "description": "A teenage runaway takes part in a sleep study that becomes a nightmarish descent into the depths of her mind and a frightening examination of the power of dreams.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMjVlMTQ5ZWYtMGExZC00NzQ0LTg1ZTgtMGEwNWZiMWRlNTg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Morbius (2021)",
+	 "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNWY0MDBlNjQtYjIwOS00ZTU3LTlmOWQtYmU5N2NhYzYyYjQ4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "The Unbearable Weight of Massive Talent (2021)",
+	 "description": "A cash-strapped Nicolas Cage agrees to make a paid appearance at a billionaire super fan's birthday party, but is really an informant for the CIA since the billionaire fan is a drug kingpin and gets cast in a Tarantino movie.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMzYwMzAxNjMtMTQyNS00MWJmLTkzYWQtZDIwYWEwMDc2ODM4XkEyXkFqcGdeQXVyMTA1MDIxODk4._V1_UY209_CR24,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "No Time to Die (2021)",
+	 "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BYmQ3MTY4NDUtOWExZi00OGQxLTgzNmQtODI1MTFkZjMyMDY0XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Peter Rabbit 2: The Runaway (2021)",
+	 "description": "Thomas and Bea are now married and living with Peter and his rabbit family. Bored of life in the garden, Peter goes to the big city, where he meets shady characters and ends up creating chaos for the whole family.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNTQwOThjZTEtNDNhZS00YmYzLWFkNWMtNWRjN2RmOWI5ZmU1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Bob's Burgers: The Movie (2021)",
+	 "description": "Plot unknown. Feature film based on the animated TV series.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMmMxZDZhMzctNWRjMC00ZjkxLWI1MjYtMWQ3ZmNjMTAzZGNhXkEyXkFqcGdeQXVyNTMyMTMxOTM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Mortal Kombat (2021)",
+	 "description": "Feature film based on the popular video game.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BY2VkZTcxM2QtMTYyNi00YzA5LTlmMWMtNDYzOTIxMzQ2MjczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "A Quiet Place Part II (2020)",
+	 "description": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BY2E3NjU5ODUtMTVmZS00ZmU3LWI0ZDMtNzE5YTQyMWM1Zjc2XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_UY209_CR1,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Last Night in Soho (2021)",
+	 "description": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to fall apart with shady consequences.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BN2Y4NmEzYzQtZjIxYi00YjZhLWJjZWQtMDhmMWYxMTliOTA0XkEyXkFqcGdeQXVyMTE0MTU2MzIw._V1_UY209_CR8,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Black Widow (2021)",
+	 "description": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMzFiODE0ZDUtN2IxNC00OTI5LTg4OWItZTE2MjU4ZTk2NjM5XkEyXkFqcGdeQXVyNDYzODU1ODM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Silent Life (2021)",
+	 "description": "The mysterious Lady in Black claiming to be the last love of the first screen sex symbol Rudolph Valentino, dies in her Hollywood apartment. The only contact the detective finds is the business card of the young filmmaker Paul Harts. While answering the investigator's questions, Paul brings us half a year earlier to the Hollywood Forever cemetery when he first met Lady in Black and convinced her to reveal her secret on camera. The story of the old lady takes us back in the past even further, to 1926, when she was a young nurse in NYC and met Rudolph Valentino on the hospital death bed.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNTBhOWM5MGEtOWYxNC00MDZkLWJkOGUtMTcxZTJmNzI4MDQ5XkEyXkFqcGdeQXVyMTkwNjcyOTk@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Rumble (2021)",
+	 "description": "In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father's footsteps by coaching a loveable underdog monster into a champion.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BYjY0ODA0YmUtMGFlNC00ODQzLTllOTUtZjU4Mjc1MTUwNTAxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Marry Me (2021)",
+	 "description": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BYzUwMjA1ZjQtMjE2OC00NzY5LTg5ZjktYmY3NTc3Mzk2MjkzXkEyXkFqcGdeQXVyODQzMTUwMjY@._V1_UY209_CR6,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Godzilla vs. Kong (2021)",
+	 "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNjM5OWFmNjMtYzBlZi00MGZiLWFkMmUtNGFmMjUzMzhhYTYxXkEyXkFqcGdeQXVyMTM1NjgyNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Free Guy (2021)",
+	 "description": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BYTNjNzFiZTItNDM5NS00ODBhLTk5NmMtYzUyZWRmOWJjOTI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Spiral (2021)",
+	 "description": "A sadistic mastermind unleashes a twisted form of justice in Spiral, the terrifying new chapter from the book of Saw.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMjI1Njc3Y2ItNzQ1MS00M2VhLWI5NjQtYjg5YmE3OTgzMWY5XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Starbright (2021)",
+	 "description": "A young orphan escapes the realities of her life by fantasizing about, and then entering, a fairy tale world.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMjAxYjE5NjAtZjFmMi00MzE5LWE2ZjItMjcxYmQyMDkzMGJhXkEyXkFqcGdeQXVyODc3NTI2MzI@._V1_UY209_CR86,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Zone 414 (2021)",
+	 "description": "Set in the near future in a colony of state-of-the-art humanoid robots. When its creator's daughter goes missing, he hires private investigator David Carmichael, to bring her home. David teams up with Jane, a highly advanced and self-aware A.I., to track down the missing daughter. Moving through the dangerous iron jungle, they rapidly piece together the mystery, uncovering a crime that leads them to question the origins of Zone 414 and the true purpose behind the City of Robots.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BN2JlMzc1NmItMTVhNy00YjcwLWJiNjAtYmVlNzNlMGM1MjNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR116,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "F9 (2021)",
+	 "description": "Cypher enlists the help of Jakob, Dom's younger brother to take revenge on Dom and his team.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BZDZlMjc0MTItZWY2YS00ZDJhLWI2M2MtODVjNWFmYTQxYmJjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Cruella (2021)",
+	 "description": "A live-action prequel feature film following a young Cruella de Vil.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNjQ1YThmZjMtYjY3OS00MmVlLTliNjQtMDMyOTNiMGJhMWM4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Infinite (2021)",
+	 "description": "A man discovers that his hallucinations are actually visions from past lives.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BYmUyYjdmZWYtZTNlZi00ZWIzLTlmYzItZDc1MDA0OTExMzUzXkEyXkFqcGdeQXVyMTA5MDI0ODY3._V1_UY209_CR36,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "The Conjuring: The Devil Made Me Do It (2021)",
+	 "description": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BZDc2ZDIyZjktMmY5ZS00YjNmLWE5NGItZjU4NzhlMTAyZWMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Vivo (2021)",
+	 "description": "Vivo, Sony Pictures Animation's first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BOTUzYzkyMGItOGU2MC00YWU4LThlM2ItODU3MWZiYTJjMGM2XkEyXkFqcGdeQXVyMjMzMTI2NzU@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Samaritan (2021)",
+	 "description": "A young boy learns that a superhero who was thought to have gone missing after an epic battle twenty years ago may in fact still be around.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BOTE4NmYzNDctN2JmYy00YjQxLTk5NWEtZWRlMzBhNmIxN2MxXkEyXkFqcGdeQXVyMTQ2MTg1Nzk@._V1_UY209_CR90,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Ghostbusters: Afterlife (2021)",
+	 "description": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BMGZmOGJjYjYtMWFkZi00NTE2LTk5NjktOGZiNDM2ZjBiMjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "The God Committee (2021)",
+	 "description": "An organ transplant committee has one hour to decide which of three patients deserves a life-saving heart. Seven years later, the committee members struggle with the consequences of that fateful decision.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BN2U4Mjk0OTgtYThkZi00ZDNiLTgzZjUtZThkNjkwZjE4YWZiXkEyXkFqcGdeQXVyMTQ2MzgwNjE@._V1_UY209_CR127,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "In the Heights (2021)",
+	 "description": "A feature version of the Broadway musical, in which a bodega owner has mixed feelings about closing his store and retiring to the Dominican Republic after inheriting his grandmother's fortune.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNjNkNWY3YmYtYmQ2YS00ZDFkLTk5YTktNDFmNDM2ZWE1YTk4XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY209_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Luca (2021)",
+	 "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BZmU3NDEyNDctZDk4Yy00ZTA5LTgyZGItOGRiNmFiYjE3ZWE2XkEyXkFqcGdeQXVyNDg1MjQ2MzQ@._V1_UX140_CR0,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Venom: Let There Be Carnage (2021)",
+	 "description": "Plot unknown. Sequel to the 2018 film Venom.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BZjVmYzVjZWUtODE3NS00ZTExLThhMTUtNzU3ZGE2NGYwOWE4XkEyXkFqcGdeQXVyMTAwODc1OTcy._V1_UY209_CR34,0,140,209_AL_.jpg"
+ },
+  {
+	 "name": "Top Gun: Maverick (2021)",
+	 "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+	 "img": "https://m.media-amazon.com/images/M/MV5BNTEyYTA5YWYtYmIxYS00NWRlLWExNjMtNjliZmVlZDgxNTBlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR1,0,140,209_AL_.jpg"
+ }
 
 ]
