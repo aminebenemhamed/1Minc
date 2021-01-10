@@ -19,7 +19,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "https://cpabuild.com/",
 			
-			"watchNow": true
+			"watchNow": true,
+			"Rating": false,
 			
 		}
 
