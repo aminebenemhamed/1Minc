@@ -1,1 +1,77 @@
 
+[{
+		"name": "Al Aoula (SNRT 1)",
+		"description": "Nilesat :\n 11474 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-1-95x110.gif"
+	},
+	{
+		"name": "2M Maroc",
+		"description": "Nilesat :\n 12015 V 27500 DVB-S2 \n\n Arabsat :\n 12303 H 27500 DVB-S2 \n\n HotBird :\n 12476 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/2m_95x48.gif"
+	},
+	{
+		"name": "Arryadia (SNRT 3)",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-3-95x110.gif"
+	},
+	{
+		"name": "ATTAKAFIA (SNRT 4)",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 v 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-4-95x110.gif"
+	},
+	{
+		"name": "Al Maghribya (SNRT 5)",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt5-95x33.gif"
+	},
+	{
+		"name": "Assadissa (SNRT 6)",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-6-95-104.gif"
+	},
+	{
+		"name": "Aflam TV (SNRT 7)",
+		"description": "Nilesat :\n 11617 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-7-95x113.gif"
+	},
+	{
+		"name": "Tamazight (SNRT 8)",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Arabsat :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-8-95x101.gif"
+	},
+	{
+		"name": "Laâyoune TV",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2 \n\n Badr :\n 12683 V 27500 DVB-S2 \n\n HotBird :\n 10873 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/snrt-2-95x110.gif"
+	},
+	{
+		"name": "Medi 1 TV Maghreb",
+		"description": "Nilesat :\n 11513 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/medi1tv-95x88.gif"
+	},
+ {
+		"name": "Medi 1 TV Arabe",
+		"description": "Nilesat :\n 11373 H 27500 DVB-S2 \n\n Badr 5 :\n 12303 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/medi1arabic-95x90.gif"
+	},
+ {
+		"name": "Medi 1 TV Afrique",
+		"description": "Badr 5 :\n 12303 H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/medi1afrique-95x90.gif"
+	},
+  {
+		"name": "Télé Maroc",
+		"description": "Nilesat :\n 10727 H 27500 DVB-S2 \n\n Badr 5 :\n 12303 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/tele-maroc-95x79.gif"
+	},
+  {
+		"name": "Chada TV ",
+		"description": "Nilesat :\n 12360 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/chada-95x92.gif"
+	},
+  {
+		"name": "M24 Maroc",
+		"description": "Nilesat :\n 10921  H 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ma/m24-95x37.gif"
+	}
+]
