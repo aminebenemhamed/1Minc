@@ -1,1 +1,61 @@
-asd
+[{
+		"name": "MBC 5",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/sa/mbc5-95x86.gif"
+	},
+	{
+		"name": "MBC 1",
+		"description": "https://i5.satexpat.com/cha/ae/mbc1-95x35.gif",
+		"img": "https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/MoviesHD2Action.png"
+	},
+	{
+		"name": "MBC 2",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbc2__95x70.gif"
+	},
+	{
+		"name": "MBC 3",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbc3_95x75.gif"
+	},
+	{
+		"name": "MBC 4",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbc4-95x78.gif"
+	},
+	{
+		"name": "MBC Action",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbcAction-95x30.gif"
+	},
+	{
+		"name": "MBC MAX",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbcMax_2010_95x32.gif"
+	},
+	{
+		"name": "MBC DRAMA",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbcDrama_95x48.gif"
+	},
+	{
+		"name": "MBC Bollywood",
+		"description": "Nilesat :\n 11559 V 27500 DVB-S2 \n\n Arabsat :\n 12284 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbcBollywood_95x32.gif"
+	},
+	{
+		"name": "MBC Masr",
+		"description": "Nilesat :\n 12015 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbc-maser_95x115.gif"
+	},
+ {
+		"name": "MBC Masr 2",
+		"description": "Nilesat :\n 11823 V 27500 DVB-S2",
+		"img": "https://i5.satexpat.com/cha/ae/mbc-masr2-95x95.gif"
+	},
+ {
+		"name": "MBC Iraq",
+		"description": "Nilesat :\n 11938 H 27500 DVB-S2 \n\n Badr :\n 11862 V 27500 DVB-S2",
+		"img": "https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Cartoon-Network-HD-1.png"
+	}
+]
