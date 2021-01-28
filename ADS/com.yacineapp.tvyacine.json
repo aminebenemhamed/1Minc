@@ -5,15 +5,15 @@
 			
 			"NetworkAds": "facebook",
 
-			"BannerAdmob": "ca-app-pub-2312872132306330/6247233010",
-			"InterstitialAdmob": "ca-app-pub-2312872132306330/3812641368",
+			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
+			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "231102548556047_231103181889317",
 			"InterstitialFacebook": "231102548556047_231103658555936",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			
-			"AppkeyAppodeals": "eec2fc737ab8df819c6a9551453a236587aa8d3034a376f4",
+			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
 			
 			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
@@ -31,8 +31,8 @@
 			
 			"NetworkAds": "appodeals",
 
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
+			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
