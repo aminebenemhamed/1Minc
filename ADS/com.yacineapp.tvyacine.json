@@ -3,14 +3,14 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "appodeals",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
 			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-			"BannerFacebook": "231102548556047_231103181889317",
-			"InterstitialFacebook": "231102548556047_231103658555936",
+			"BannerFacebook": "447892579680293_447893149680236",
+			"InterstitialFacebook": "447892579680293_447893346346883",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			
 			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
@@ -29,7 +29,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "appodeals",
 
 			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
 			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
