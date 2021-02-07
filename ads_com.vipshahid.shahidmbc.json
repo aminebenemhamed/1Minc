@@ -28,12 +28,14 @@
 	"huawei": {
 
 		"AdsController": {
-			
-			"NetworkAds": "facebook",
+		
+			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-5941406937735595/5338994960",
-			"InterstitialAdmob": "ca-app-pub-5941406937735595/7773586612",
+			
+			"BannerAdmob": "ca-app-pub-5526453419993016/6148343867",
+			"InterstitialAdmob": "ca-app-pub-5526453419993016/4045565339",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
 
 			"BannerFacebook": "231102548556047_231103181889317",
 			"InterstitialFacebook": "231102548556047_231103658555936",
