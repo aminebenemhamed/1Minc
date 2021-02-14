@@ -26,7 +26,7 @@
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
 			"watchNow": true,
-			"Rating": true,
+			"Rating": false,
 			"LinkCpa2" : "https://google.com/"
 		}
 
