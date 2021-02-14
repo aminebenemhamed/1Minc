@@ -1,0 +1,113 @@
+[{
+		"name": "Astronaut helmet",
+    	"description": "The astronaut helmet looks like a white dome-like hat that sits on top of the player's head at an angle, based on a real life astronaut's helmet.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ab/Astronaut_helmet.png/revision/latest/scale-to-width-down/132?cb=20200915152547"
+	},
+	{
+		"name": "Backwards cap",
+    	"description": "The backwards cap is a pale blue basketball cap with the front of the cap facing backwards.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/54/Backwards_cap.png/revision/latest/scale-to-width-down/66?cb=20200915154210"
+	},
+	{
+		"name": "Brain Slug",
+    	"description": "The Brain Slug resembles a small blobby lime creature with a single eye that is visually similar to the pet with the same name. It is similar to the brainslug pet in appearance.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/bf/Brain_Slug.png/revision/latest/scale-to-width-down/63?cb=20200915152602"
+	},
+	{
+		"name": "Bush hat",
+    	"description": "The bush hat is a brown hat with a wide rim and what appears to be a rope around the base.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/98/Bush_hat.png/revision/latest/scale-to-width-down/98?cb=20200915152615"
+	},
+	{
+		"name": "Captain hat",
+    	"description": "The captain hat is a white hat with a golden badge and dark rim on the front.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/79/Captain_hat.png/revision/latest/scale-to-width-down/65?cb=20200915152640"
+	},
+	{
+		"name": "Flowerpot hat",
+    	"description": "The flowerpot hat consists of a brown flowerpot with a red flower poking out of the top.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ae/Flowerpot_hat.png/revision/latest/scale-to-width-down/56?cb=20200915152408"
+	},
+	{
+		"name": "Double top hat",
+    	"description": "The double top hat consists of two black top hats stacked on together.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/24/Double_top_hat.png/revision/latest/scale-to-width-down/73?cb=20200915152351"
+	},
+	{
+		"name": "Goggles",
+    	"description": "The goggles are brown-gray steampunk-style goggles which sit on the top of the player's head.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/1a/Goggles.png/revision/latest/scale-to-width-down/74?cb=20200915152706"
+	},
+	{
+		"name": "Hard hat",
+    	"description": "The hard hat is a yellow, dome-like hat.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/db/Hard_hat.png/revision/latest/scale-to-width-down/82?cb=20200915152732"
+	},
+	{
+		"name": "Military hat",
+    	"description": "The military hat is visually similar to the police hat, but is green with a differently-shaped golden badge on the front.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/db/Military_hat.png/revision/latest/scale-to-width-down/67?cb=20200915152744"
+	},
+	{
+		"name": "Paper hat",
+    	"description": "The paper hat consists of paper, which seems to be folded into a hat.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/22/Paper_hat.png/revision/latest/scale-to-width-down/63?cb=20200915152431"
+	},
+	{
+		"name": "Party hat",
+    	"description": "The party hat is cone shaped with green, blue, red, yellow and orange stripes and a pink frilly rim.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/25/Party_hat.png/revision/latest/scale-to-width-down/63?cb=20200915152320"
+	},
+	{
+		"name": "Police hat",
+    	"description": "The police hat visually similar to the military hat, but blue in color and with a differently shaped golden badge.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/b5/Police_hat.png/revision/latest/scale-to-width-down/67?cb=20200915152808"
+	},
+	{
+		"name": "Stethoscope",
+    	"description": "The stethoscope is a round mirror attached to a black band that goes around a player's head.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d7/Stethoscope.png/revision/latest/scale-to-width-down/69?cb=20200915152951"
+	},
+	{
+		"name": "Top hat",
+    	"description": "This hat is a plain black top hat.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/34/Top_hat.png/revision/latest/scale-to-width-down/76?cb=20200915153007"
+	},
+	{
+		"name": "Towel wizard",
+    	"description": "The towel wizard is presumably a towel, and it has been wrapped up in itself to vaguely resemble a pointy wizard's hat.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a2/Towel_wizard.png/revision/latest/scale-to-width-down/70?cb=20200915153020"
+	},
+	{
+		"name": "Ushanka",
+    	"description": "The ushanka is a fuzzy light gray hat with the Wall logo on the front.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2d/Ushanka.png/revision/latest/scale-to-width-down/60?cb=20200915153032"
+	},
+	{
+		"name": "Viking",
+    	"description": "The Viking consists of a golden dome-shaped helmet with two white horns on either side",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c0/Viking.png/revision/latest/scale-to-width-down/76?cb=20200915153045"
+	},
+	{
+		"name": "Wall guard cap",
+    	"description": "The Wall guard cap consists of a blocky gray cap that has the Wall logo on the front, as well as a front-facing brim.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/13/Wall_guard_cap.png/revision/latest/scale-to-width-down/76?cb=20200915153100"
+	},
+	{
+		"name": "",
+    	"description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	"description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	"description": "",
+		"img": ""
+	}
+ 
+
+]
