@@ -94,18 +94,78 @@
 		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/13/Wall_guard_cap.png/revision/latest/scale-to-width-down/76?cb=20200915153100"
 	},
 	{
+		"name": "Snowman hat",
+    	"description": "The snowman hat resembles a small snowman with a black top hat and a purple scarf.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/22/Snowman_hat.png/revision/latest/scale-to-width-down/55?cb=20200915153842"
+	},
+	{
+		"name": "Antlers",
+    	"description": "The antlers resemble brown reindeer antlers, with small light brown ears set slightly further down on the headband.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/14/Antlers.png/revision/latest/scale-to-width-down/77?cb=20200915153910"
+	},
+	{
+		"name": "Christmas lights hat",
+    	"description": "The Christmas lights hat seems to be a string of three oversized fairy lights, in the colors red, yellow and green.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/4a/Christmas_lights_hat.png/revision/latest/scale-to-width-down/90?cb=20200915153918"
+	},
+	{
+		"name": "Santa hat",
+    	        "description": "The Santa hat is based on the hat that Santa Claus wears, red with a fluffy white rim.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/47/Santa_hat.png/revision/latest/scale-to-width-down/71?cb=20200915154011"
+	},
+	{
+		"name": "Christmas tree hat",
+    	        "description": "The Christmas tree hat is a miniature version of a Christmas tree, with yellow and red lights. Interestingly, these lights appear on the outline, making this hat the only hat to have features on its outline.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a6/Christmas_tree_hat.png/revision/latest/scale-to-width-down/37?cb=20200915153835"
+	},
+	{
+		"name": "Present hat",
+    	        "description": "The present hat resembles a small silver and golden wrapped present with a small bow on top.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/1d/Present_hat.png/revision/latest/scale-to-width-down/63?cb=20200915153901"
+	},
+	{
+		"name": "Candy canes hat",
+    	        "description": "The candy canes hat resembles a couple of candy canes that sit on the character's head like a pair of horns.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/0c/Candy_canes_hat.png/revision/latest/scale-to-width-down/57?cb=20200915152221"
+	},
+	{
 		"name": "",
-    	"description": "",
+    	        "description": "",
 		"img": ""
 	},
 	{
 		"name": "",
-    	"description": "",
+    	        "description": "",
 		"img": ""
 	},
 	{
 		"name": "",
-    	"description": "",
+    	        "description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	        "description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	        "description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	        "description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	        "description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+    	        "description": "",
 		"img": ""
 	}
  
