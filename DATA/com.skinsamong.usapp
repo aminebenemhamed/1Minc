@@ -140,33 +140,33 @@
 	},
 	{
 		"name": "White hat",
-    	        "description": "",
+    	        "description": "The white hat is a plain white top hat with a black band around the middle.",
 		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f6/White_hat.png/revision/latest/scale-to-width-down/85?cb=20200915153109"
 	},
 	{
-		"name": "",
-    	        "description": "",
-		"img": ""
+		"name": "Crown",
+    	        "description": "This hat is a plain shiny golden crown with three points.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f3/Crown.png/revision/latest/scale-to-width-down/53?cb=20200915153651"
 	},
 	{
-		"name": "",
-    	        "description": "",
-		"img": ""
+		"name": "Eyebrows",
+    	        "description": "The eyebrows are two black lines that seemingly hover above the character's head.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/78/Eyebrows.png/revision/latest/scale-to-width-down/38?cb=20200915153701"
 	},
 	{
-		"name": "",
-    	        "description": "",
-		"img": ""
+		"name": "Angel halo",
+    	        "description": "The angel halo is a shiny yellow loop that hovers above the character's head.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f1/Angel_halo.png/revision/latest/scale-to-width-down/57?cb=20200915153708"
 	},
 	{
-		"name": "",
-    	        "description": "",
-		"img": ""
+		"name": "Elf cap",
+    	        "description": "The elf cap is a lime hat that folds over at the end.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/62/Elf_cap.png/revision/latest/scale-to-width-down/66?cb=20200915153716"
 	},
 	{
-		"name": "",
-    	        "description": "",
-		"img": ""
+		"name": "Flat cap",
+    	        "description": "The flat cap is a flat brown cap with a darker brown rim.",
+		"img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/5c/Flat_cap.png/revision/latest/scale-to-width-down/62?cb=20200915154258"
 	}
  
 
