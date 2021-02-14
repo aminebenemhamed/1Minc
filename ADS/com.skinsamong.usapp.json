@@ -24,10 +24,10 @@
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
-			"LinkCpa2" : "https://google.com/"
+			"LinkCpa2" : "https://google.com/",
 			
 			"watchNow": true,
-			"Rating": false,
+			"Rating": false
 			
 		}
 
