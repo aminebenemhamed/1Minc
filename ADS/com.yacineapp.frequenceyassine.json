@@ -3,52 +3,65 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
-			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-			"BannerFacebook": "447892579680293_447893149680236",
-			"InterstitialFacebook": "447892579680293_447893346346883",
+			"BannerFacebook1": "173076897584567_173077344251189",
+			"BannerFacebook2": "173076897584567_173077344251189",
+			"InterstitialFacebook1": "173076897584567_173077627584494",
+			"InterstitialFacebook2": "173076897584567_173077627584494",
+			"InterstitialFacebook3": "173076897584567_173077627584494",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
-			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
-			
+			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
+			"LinkCpa2" : "https://google.com/",
 			
 			"watchNow": true,
-			"Rating": true
+			"Rating": false
 			
 		}
 
 	},
-		"Huawei": {
+	"Huawei": {
 
-		"AdsController": {
+	"AdsController": {
 			
-			"NetworkAds": "appodeals",
+			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
-			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-			"BannerFacebook": "447892579680293_447893149680236",
-			"InterstitialFacebook": "447892579680293_447893346346883",
-			"NativeFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#540355099982459_694708854547082",
+			"BannerFacebook1": "173076897584567_173077344251189",
+			"BannerFacebook2": "173076897584567_173077344251189",
+			"InterstitialFacebook1": "173076897584567_173077627584494",
+			"InterstitialFacebook2": "173076897584567_173077627584494",
+			"InterstitialFacebook3": "173076897584567_173077627584494",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
-			"AppkeyAppodeals": "d6639b5755d46d919703b56a8afe882914f36e7d54fe96fc",
-			
+			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://cpabuild.com",
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
 			"watchNow": false,
-			"Rating": false
+			"Rating": false,
+			"LinkCpa2" : "https://google.com/"
 		}
 
 	}
-	
 }
