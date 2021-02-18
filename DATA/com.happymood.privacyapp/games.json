@@ -12,6 +12,11 @@
 		"name": "Clash of Clans",
 		"description": "You can use commands in global and clan chat. List of all commands: \n\n /clean - reset your account (will keep score and clan) \n /full - upgrade all buildings to max level for your town hall \n /th (level) - upgrade town hall to specified level (example: /th 12) \n /asp - attack your village \n /cct - remove all spells and troops \n /sethero (name) (level) - upgrade specified hero (king, queen, warden or builder) to specified level (example: /sethero king 40) \n /status - show server status (online, used RAM and other)",
 		"img": "https://i.happymod.com/upload/android/icon/2019/02/21/64b8f59dbad213441e580b69f09a8ea4.jpg"
+	},
+ 	{
+		"name": "Roblox",
+		"description": "Master Kramers new mod Features in screen \n\n *** FREE ITEM OFFER (10/20 - 10/27) – Exclusively for Google Play users, grab a free Jack-O-Lantern mask ($5.99 value) for your avatar today! ***NEW HALLOWEEN EVENT (10/17 - 11/1) – Discover spooky surprises in ROBLOX's new Hallows' Eve event! Play featured Halloween games today to earn ghoulishly delightful virtual rewards!Welcome to the ultimate virtual universe powered by imagination. Join the largest user-generated gaming community where over 20 million visitors come each month to explore amazing 3D virtual worlds with friends.",
+		"img": "https://i.ytimg.com/vi/H9COab4y31o/hqdefault.jpg"
 	}
    
 ]
