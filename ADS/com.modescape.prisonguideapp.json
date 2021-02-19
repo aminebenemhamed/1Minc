@@ -17,7 +17,6 @@
 			"InterstitialFacebook2": "173076897584567_173077627584494",
 			"InterstitialFacebook3": "173076897584567_173077627584494",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
-			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
 			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
 						
@@ -26,7 +25,7 @@
 			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
 			"LinkCpa2" : "https://google.com/",
 			
-			"Rating": "normal"
+			"finish": "normal"
 			
 		}
 
@@ -49,7 +48,6 @@
 			"InterstitialFacebook2": "173076897584567_173077627584494",
 			"InterstitialFacebook3": "173076897584567_173077627584494",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
-			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
 			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
 						
@@ -58,7 +56,7 @@
 			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
 			"LinkCpa2" : "https://google.com/",
 			
-			"Rating": "normal"
+			"finish": "normal"
 		}
 
 	}
