@@ -15,9 +15,134 @@
 	"img": "https://static.wikia.nocookie.net/adoptme/images/f/f9/Penguin_neon.PNG/revision/latest/scale-to-width-down/180?cb=20200111175757"
 	},
 	{
-	"name": "",
-	"description": "",
-	"img": ""
+	"name": "Golden Penguin",
+	"description": "The Golden Penguin is classified as a legendary pet in Adopt Me! It can be obtained by buying the Golden Goldfish for 225Robux, or through trading with other players who own the pet.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/f/f8/Golden_Penguin_in-game.PNG/revision/latest/scale-to-width-down/141?cb=20200306082239"
+	},
+	{
+	"name": "Sloth",
+	"description": "The Sloth is classified as a non-limited ultra-rare pet in Adopt Me!. It can be purchased for 199Robux in the Pet Shop or the gamepass menu on the right side of the screen.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/0/05/Slothy.png/revision/latest/scale-to-width-down/620?cb=20201113122102"
+	},
+	{
+	"name": "Shadow Dragon",
+	"description": "The Shadow Dragon is a limited Developer Product and Robux pet in Adopt Me! released during the 2019 Halloween Event from October 18, 2019 to November 1, 2019. It was obtainable by purchasing the Shadow Dragon game pass for 1000Robux ",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/3/3a/Shadow_dragon.png/revision/latest/scale-to-width-down/277?cb=20201105015217"
+	},
+	{
+	"name": "King Bee",
+	"description": "The King Bee is classified as a legendary pet in Adopt Me!. It can be obtained by purchasing Honey for 199Robux , or by trading with other players who own the item. There is a 4 in 40 (10%) chance of obtaining a King Bee from the Honey.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/2/2b/KingBee_Pet.png/revision/latest/scale-to-width-down/140?cb=20200120163207"
+	},
+	{
+	"name": "Queen Bee",
+	"description": "The Queen Bee is classified as a legendary pet in Adopt Me!. that can be obtained through purchasing Honey for 199Robux , or through trading with other players who own the item. There is a 1 in 40 chance (2.5%) of obtaining a Queen Bee from the Honey.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/9/9a/QueenBee_Pet.png/revision/latest/scale-to-width-down/140?cb=20200204215458"
+	},
+	{
+	"name": "Bee",
+	"description": "The Bee is an ultra-rare pet in Adopt Me! that can be tamed by buying Honey for 199Robux  or through trading with other players who own the item. There is a 35 in 40 chance (87.5%) of obtaining a Bee from the Honey.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/5/56/Bee.png/revision/latest/scale-to-width-down/360?cb=20201112122918"
+	},
+	{
+	"name": "Frost Dragon",
+	"description": "The Frost Dragon is classified as a limited legendary pet in Adopt Me! that was released on December 20, 2019, during the Christmas Update for 1000Robux. The Frost Dragon came out during the 2019 Christmas Event a few days after the initial release of the event, which began on December 14, 2019. It is no longer in game, meaning the only possible way to obtain a Frost Dragon is through trading.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/f/fd/Frost_Dragon_Pet.png/revision/latest/scale-to-width-down/140?cb=20200116000126"
+	},
+	{
+	"name": "Panda",
+	"description": "The Panda is an ultra-rare pet that can be bought as a gamepass for 249Robux . The Panda was originally added for the 2020 Lunar New Year Update. It is now located in the Pet Shop or in the Shop tab where gamepasses are sold.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/1/13/Panda_Pet.png/revision/latest/scale-to-width-down/140?cb=20200128231536"
+	},
+	{
+	"name": "Albino Monkey",
+	"description": "The Albino Monkey is a type of Monkey classified as a legendary pet in Adopt Me! and was first released in the Monkey Fairground Event. To obtain this pet, players must open a Premium Monkey Box, which costs 195Robux . The player must keep opening these until they get one. Players can also obtain this pet through trading with other players who own the pet.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/c/c6/AlbinoMonkey.png/revision/latest/scale-to-width-down/140?cb=20200528163433"
+	},
+	{
+	"name": "Monkey King",
+	"description": "The Monkey King is a legendary pet that can be obtained when 3 Staffs are combined with a normal Monkey. It can now only be obtained through trading with other players, or by using three Staffs, which could only be unlocked by purchasing Premium Monkey Boxes, costing 195Robux each. There is a 5% chance of getting the Staffs. It costs at least Robux.png 585 (if not more) to obtain 3 Staffs without trading for them.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/3/30/MonkeyKing.png/revision/latest/scale-to-width-down/140?cb=20200528163459"
+	},
+	{
+	"name": "Kitsune",
+	"description": "The Kitsune is a legendary pet in Adopt Me! that was released on July 10, 2020. It costs 600Robux. It is available and can be bought in the Pet Shop along with the Griffin, Horse, Sloth, Panda, Cerberus and Robo Dog.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/5/53/Kitsune_Pet.png/revision/latest/scale-to-width-down/140?cb=20200711045113"
+	},
+	{
+	"name": "Cerberus",
+	"description": "The Cerberus is classified as a legendary pet that costs 500Robux. It was introduced with the Halloween Event (2020) in Adopt Me! on October 28, 2020.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/0/05/Cerberus_HD.png/revision/latest/scale-to-width-down/386?cb=20201030173040"
+	},
+	{
+	"name": "Robo Dog",
+	"description": "The Robo Dog is classified as a legendary pet in Adopt Me! that costs 600Robux. It was released on November 24, 2020 at 9:00 AM PST.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/3/38/Robo_Dog_AM.png/revision/latest/scale-to-width-down/184?cb=20201124171725"
+	},
+	{
+	"name": "Frost Fury",
+	"description": "The Frost Fury was a legendary pet in the Winter Holiday Event (2020). It was introduced in the Winter Holiday (2020) and was available for purchase for 800Robux. As its respective event has ended, it is currently unobtainable except through trading with other players who own it.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/7/71/Frost_Fury_AM.png/revision/latest/scale-to-width-down/140?cb=20201215192251"
+	},
+	{
+	"name": "Guardian Lion",
+	"description": "The Guardian Lion is classified as a legendary pet which was released in Adopt Me! during the Lunar New Year (2021) event. During the event, players could purchase the Guardian Lion for 500Robux.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/9/98/Guardian_Lion_AM.png/revision/latest/scale-to-width-down/300?cb=20210202202221"
+	},
+	{
+	"name": "Golden Ladybug",
+	"description": "The Golden Ladybug is a legendary pet that was released to Adopt Me! along with the Farm Shop Event (2021), on February 18, 2021. It can be tamed by buying Diamond Lavender for 199Robux or through trading with other players who own the item. There is a 4 in 40 chance (10%) of obtaining a Golden Ladybug from the Diamond Lavender.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/5/5d/Golden_Ladybug.png/revision/latest/scale-to-width-down/240?cb=20210218195848"
+	},
+	{
+	"name": "Diamond Ladybug",
+	"description": "The Diamond Ladybug is a legendary pet that was released to Adopt Me! along with the Farm Shop Event (2021), on February 18, 2021. It can be tamed by purchasing Diamond Lavender for 199Robux or through trading with other players who own the item. There is a 1 in 40 chance (2.5%) of obtaining a Diamond Ladybug from the Diamond Lavender.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/b/bf/Diamond_Ladybug.png/revision/latest/scale-to-width-down/240?cb=20210218195845"
+	},
+	{
+	"name": "Ladybug",
+	"description": "The Ladybug is an ultra-rare pet that was released to Adopt Me! along with the Farm Shop Event (2021), on February 18, 2021. It can be tamed by buying Diamond Lavender for 199Robux or through trading with other players who own the item. There is a 35 in 40 chance (87.5%) of obtaining a Ladybug from the Diamond Lavender.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/3/38/Ladybug.png/revision/latest/scale-to-width-down/240?cb=20210218195857"
+	},
+	{
+	"name": "Albino Bat",
+	"description": "The Albino Bat is classified as an ultra-rare pet from the Halloween Event 2020 in Adopt Me!. It is obtainable from a Bat Box, which has a 1 of 5 (20%) chance of getting it, the other pet obtainable from the Bat Box is the Bat. The Bat Box could be bought in the Halloween Store for 1,000Candy . Since the event has ended, players can now only obtain the Albino Bat through trading with other players or by opening Bat Boxes if they still happen to have one in their inventory.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/0/0d/AlbinoBat.png/revision/latest/scale-to-width-down/108?cb=20210203152023"
+	},
+	{
+	"name": "Bat",
+	"description": "The Bat is classified as an uncommon pet from the Halloween Event 2020 in Adopt Me!. It is currently only obtainable from the Bat Box, which costed 1,000Candy in the Halloween Event 2020, and trading with other players. This is because the event ended on November 1, 2020. It has a 4 in 5 (80%) chance of unboxing from the Bat Box. The other pet that comes in the Bat Box is the Albino Bat, with a 1 in 5(20%) chance of becoming unboxed.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/a/ad/Bat.png/revision/latest/scale-to-width-down/214?cb=20210215155252"
+	},
+	{
+	"name": "Bat Dragon",
+	"description": "The Bat Dragon was one of the four pets that was obtainable during the Halloween Event (2019) in Adopt Me!. It is classified as a legendary pet, and it costs 180,000Candy (500Robux if the Candies were to be purchased with Robux). ",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/a/a7/BatDragon_Pet.png/revision/latest/scale-to-width-down/140?cb=20200204215102"
+	},
+	{
+	"name": "Beaver",
+	"description": "The Beaver is classified as a rare pet in Adopt Me!. It is one of the 16 pets available and obtainable in the Cracked Egg, Pet Egg, and Royal Egg. It can also be obtained through trading with other players who own it.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/2/26/Beaver.png/revision/latest/scale-to-width-down/404?cb=20201112132343"
+	},
+	{
+	"name": "Blue Dog",
+	"description": "The Blue Dog is classified as a limited uncommon pet in Adopt Me! that was available for a period of time when the Pets update came out. It was one of the very first pets to be added to the game, along with the Pink Cat. It can only be hatched out of the Blue Egg, which was only obtainable during the Pets update. It is no longer available and can only be obtained through trading with other players who have the Blue Dog or by hatching one from a Blue Egg, if they happen to still have one.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/5/59/Blue_Dog_AM_%28final%29.png/revision/latest/scale-to-width-down/424?cb=20201115170127"
+	},
+	{
+	"name": "Brown Bear",
+	"description": "The Brown Bear is one of the seven pets that is available in the Jungle Egg in Adopt Me!. It is classified as a rare pet and players have an 18.5% chance of hatching one from a Jungle Egg.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/5/58/Brown_Bear.png/revision/latest/scale-to-width-down/450?cb=20200924041604"
+	},
+	{
+	"name": "Buffalo",
+	"description": "The Buffalo is classified as a common pet in Adopt Me!. It can be hatched from the Cracked Egg (350Bucks) and the Pet Egg (600Bucks). It was one of the first common pets to be released in the game. Players can also obtain it through trading with other players.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/7/72/Buffalo_Pet.png/revision/latest/scale-to-width-down/108?cb=20201029012141"
+	},
+	{
+	"name": "Bunny",
+	"description": "The Bunny is classified as a non-limited rare pet in Adopt Me!. It can be obtained by hatching the Cracked Egg (4.83% chance), Pet Egg (6.75% chance), and the Royal Egg (9.25% chance).",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/a/a9/Bunny2.png/revision/latest/scale-to-width-down/620?cb=20201112135932"
 	}
 
 ]
