@@ -1,0 +1,23 @@
+[
+    {
+	"name": "Horse",
+	"description": "The Horse is one of the pets in Adopt Me! that can be bought as a Gamepass pet at the Shop or from the Pet Shop for 300Robux. The Horse is classified as an ultra-rare pet.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/9/9d/AdoptMe_Horse.png/revision/latest/scale-to-width-down/620?cb=20201112184343"
+	},
+	{
+	"name": "Griffin",
+	"description": "The Griffin is classified as a legendary pet in Adopt Me! that can be bought as a gamepass in the Pet Shop for 600Robux. After purchasing the gamepass, you will find it in your inventory.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/4/40/Pet_Griffin.png/revision/latest/scale-to-width-down/620?cb=20190718081134"
+	},
+	{
+	"name": "Penguin",
+	"description": "The Penguin is an ultra-rare pet in Adopt Me!. It can be obtained by buying the Golden Goldfish for 225Robux, or through trading with other players who own the pet.",
+	"img": "https://static.wikia.nocookie.net/adoptme/images/f/f9/Penguin_neon.PNG/revision/latest/scale-to-width-down/180?cb=20200111175757"
+	},
+	{
+	"name": "",
+	"description": "",
+	"img": ""
+	}
+
+]
