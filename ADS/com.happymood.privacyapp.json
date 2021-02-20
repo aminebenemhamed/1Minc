@@ -29,7 +29,7 @@
 			"watchNow": true,
 			"Rating": true,
 
-			"Browser": "off"
+			"Browser": "on"
 		}
 
 	},
