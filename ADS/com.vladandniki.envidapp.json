@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -11,8 +11,8 @@
 			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
 			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "173076897584567_173077344251189",
-			"BannerFacebook2": "173076897584567_173077344251189",
+			"BannerFacebook1": "179747730280579_179748150280537",
+			"BannerFacebook2": "179747730280579_179748150280537",
 			"InterstitialFacebook1": "173076897584567_173077627584494",
 			"InterstitialFacebook2": "173076897584567_173077627584494",
 			"InterstitialFacebook3": "173076897584567_173077627584494",
@@ -26,8 +26,8 @@
 			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
 			"LinkCpa2" : "https://google.com/",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
