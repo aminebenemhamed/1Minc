@@ -1,0 +1,39 @@
+[
+  {
+    "name":"The Prison",
+    "description":"It is a very dark and lonely area and seems to be located starboard of the Maw in the lowest compartments. Various cabins are connected by vent shafts or thick metallic doors that Six cannot open. The Prison also gives Six her first glimpse of the Janitor but the most frequent antagonists encountered here are the Leeches and the Eyes. There are very little encounters with other beings and Six spends the majority of her time in the Prison alone. The Prison is also where Six encounters the Hanging Man. \n\n The name The Prison implies that the children are being held there as unwilling guests. The Janitor seems to be their caretaker and keeps them in line. They even have a play area, but are prohibited from escaping by electric bars on both sides. Six also sees a cafeteria where another human gives her a piece of bread to subside her hunger.",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/a/af/Theprisonchapterselection.png/revision/latest/scale-to-width-down/619?cb=20190912022912"
+  },
+ {
+    "name":"The Kitchen",
+    "description":"The Kitchen was the main playable area in the demo and players would begin in the bedroom. \n\n If after securing the key from the bedroom, Six makes her way down the elevator and gets captured by the first chef, she will respawn in the pantry and the key will be lying on the ground in front of the elevator. \n\n No harm will come to Six if she stays in either freezer room for a long period of time.",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/e/e5/Maxresdefault.jpg/revision/latest/scale-to-width-down/619?cb=20180205023630"
+  },
+   {
+    "name":"The Guest Area",
+    "description":"The architecture of the Guest Area is highly reminiscent of Japanese restaurants. It is mainly a large dining area that connects to the main entrance of the Maw. It has several floors all lined with tables and stools to accommodate the Guests that crowd this area in large numbers as well as the massive banquet of red meat and wine prepared for them. The Guest Area must be extremely sturdy for it to support the collected mass of the Guests, although one guardrail will give way under the weight of one unfortunate Guest. \n\n Aside from the dining rooms, there is also at least one bathroom and isolated rooms where Guests can rest after eating their fill. The Guest Area also connects to The Lady's Quarters via an elevator and The Lady can also monitor the entire diner from her balcony. After her encounter with The Lady, Six will return to the Guest Area to exit the Maw, killing several Guests along the way.",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/8/89/Guestareachapterselection.png/revision/latest/scale-to-width-down/620?cb=20190912031408"
+  },
+   {
+    "name":"The Lady's Quarters",
+    "description":"It appears to be a small house, in which The Lady lives. It is rather lavish when compared to the rest of The Maw, featuring lush purple carpeting/wall paper, decent furniture and flooring, and clean interior. This is also where The Lady chases Six in the last chapter. Mannequins are scattered throughout the area, providing camouflage for the Lady. It is important to note that nearly all mirrors in this area have been damaged.",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/1/12/Ladysquarterschapterselection.png/revision/latest/scale-to-width-down/620?cb=20190912033904"
+  },
+   {
+    "name":"The Lair",
+    "description":"The Lair is the second area Six passes through in Little Nightmares. The Janitor will be encountered frequently in this area. Six and the Runaway Kid, as revealed in a cutscene from the DLC chapter The Depths, will both be captured by him and imprisoned in cages. ",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/f/f1/Thelairchapterselection.png/revision/latest/scale-to-width-down/620?cb=20190912025009"
+  },
+   {
+    "name":"The Depths",
+    "description":"The Depths appear to have formerly been used for housing as there is several pieces of furniture scattered throughout. However, it is now flooded and may act as sewage or as a ballast system for the Maw. Pipes connect this area to both the Prison and possibly to the Kitchen as scraps of fish are seen being dumped in one of the areas where the Granny lives",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/9/97/Thedepthschapterselection.png/revision/latest/scale-to-width-down/619?cb=20190912034653"
+  },
+   {
+    "name":"The Transmission",
+    "description":"It appears as a dark skyscraper with a mauve beacon at its top located at the center of the Pale City. The situation inside the tower is supernatural, as props and objects are seen floating around. There are several doors leading to others that are in the same area as another. Metal staircases are also seen stretching out from floors to floors in the tower. However, behind the concretes are hidden flesh walls that will spread out once broken. Mono needs to find Six in the Transmission tower",
+    "img":"https://static.wikia.nocookie.net/littlenightmares/images/0/0c/The_Transmission_chapter.png/revision/latest/scale-to-width-down/619?cb=20210215040316"
+  }
+  
+
+]
