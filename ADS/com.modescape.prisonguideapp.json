@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -25,7 +25,7 @@
 			"LinkCpa1" : "https://dwnlds.co/5f031b8",
 			"LinkCpa2" : "https://dwnlds.co/5f031b8",
 			
-			"finish": "normal"
+			"finish": "rate"
 			
 		}
 
