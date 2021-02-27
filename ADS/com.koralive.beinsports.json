@@ -3,13 +3,13 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
 			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-			"BannerFacebook": "231102548556047_231103181889317",
+			"BannerFacebook": "787093141891814_787094071891721",
 			"InterstitialFacebook": "231102548556047_231103658555936",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			
