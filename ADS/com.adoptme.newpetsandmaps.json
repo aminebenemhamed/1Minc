@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -11,11 +11,11 @@
 			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
 			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "173076897584567_173077344251189",
-			"BannerFacebook2": "173076897584567_173077344251189",
-			"InterstitialFacebook1": "173076897584567_173077627584494",
-			"InterstitialFacebook2": "173076897584567_173077627584494",
-			"InterstitialFacebook3": "173076897584567_173077627584494",
+			"BannerFacebook1": "478294970009450_478295296676084",
+			"BannerFacebook2": "478294970009450_478296323342648",
+			"InterstitialFacebook1": "478294970009450_478295996676014",
+			"InterstitialFacebook2": "478294970009450_478296570009290",
+			"InterstitialFacebook3": "478294970009450_478296846675929",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
@@ -26,8 +26,8 @@
 			"LinkCpa1" : "https://cpbild.co/df218aa",
 			"LinkCpa2" : "https://cpbild.co/df218aa",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
