@@ -1,0 +1,67 @@
+{
+	"Google": {
+
+		"AdsController": {
+			
+			"NetworkAds": "admob",
+
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			"BannerFacebook1": "432592864697087_432595581363482",
+			"BannerFacebook2": "432592864697087_432956747994032",
+			"InterstitialFacebook1": "432592864697087_432954937994213",
+			"InterstitialFacebook2": "432592864697087_432957664660607",
+			"InterstitialFacebook3": "432592864697087_432958337993873",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
+			
+			"AppkeyAppodeals": "e380311269fa2fd192ec479195e0d2d64eb6f965ceac2424",
+						
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa1" : "https://cpbild.co/567cc9f",
+			"LinkCpa2" : "https://cpbild.co/567cc9f",
+			
+			"watchNow": false,
+			"Rating": false
+			
+		}
+
+	},
+	"Huawei": {
+
+	"AdsController": {
+			
+			"NetworkAds": "admob",
+
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			"BannerFacebook1": "173076897584567_173077344251189",
+			"BannerFacebook2": "173076897584567_173077344251189",
+			"InterstitialFacebook1": "173076897584567_173077627584494",
+			"InterstitialFacebook2": "173076897584567_173077627584494",
+			"InterstitialFacebook3": "173076897584567_173077627584494",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
+			
+			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+						
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			
+			"watchNow": false,
+			"Rating": false,
+			"LinkCpa2" : "https://google.com/"
+		}
+
+	}
+}
