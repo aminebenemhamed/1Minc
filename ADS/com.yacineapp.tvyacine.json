@@ -3,10 +3,10 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-1478432664089864/8571260982",
-			"InterstitialAdmob": "ca-app-pub-1478432664089864/2005852634",
+			"BannerAdmob": "ca-app-pub-5561027594829415/6027377178",
+			"InterstitialAdmob": "ca-app-pub-5561027594829415/1990368747",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "447892579680293_461914611611423",
@@ -19,8 +19,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
