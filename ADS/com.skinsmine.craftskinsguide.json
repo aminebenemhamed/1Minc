@@ -11,8 +11,8 @@
 			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
 			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "173076897584567_173077344251189",
-			"BannerFacebook2": "173076897584567_173077344251189",
+			"BannerFacebook1": "252040033076375_252040753076303",
+			"BannerFacebook2": "252040033076375_252040753076303",
 			"InterstitialFacebook1": "173076897584567_173077627584494",
 			"InterstitialFacebook2": "173076897584567_173077627584494",
 			"InterstitialFacebook3": "173076897584567_173077627584494",
@@ -25,8 +25,8 @@
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": false,
-			"Rating": false,
+			"watchNow": true,
+			"Rating": true,
 			"LinkCpa2" : "https://google.com/"
 		}
 
