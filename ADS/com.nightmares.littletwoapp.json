@@ -38,29 +38,29 @@
 			
 			"NetworkAds": "admob",
 
-			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"BannerAdmob1": "ca-app-pub-2593018812622008/3170840046",
+			"BannerAdmob2": "ca-app-pub-2593018812622008/8614738414",
+			"InterstitialAdmob1": "ca-app-pub-2593018812622008/2979268351",
+			"InterstitialAdmob2": "ca-app-pub-2593018812622008/4418319011",
+			"InterstitialAdmob3": "ca-app-pub-2593018812622008/9161533323",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "173076897584567_173077344251189",
-			"BannerFacebook2": "173076897584567_173077344251189",
-			"InterstitialFacebook1": "173076897584567_173077627584494",
-			"InterstitialFacebook2": "173076897584567_173077627584494",
-			"InterstitialFacebook3": "173076897584567_173077627584494",
+			"BannerFacebook1": "1347348165628536_1347349145628438",
+			"BannerFacebook2": "1347348165628536_1347354132294606",
+			"InterstitialFacebook1": "1347348165628536_1347353132294706",
+			"InterstitialFacebook2": "1347348165628536_1347354445627908",
+			"InterstitialFacebook3": "1347348165628536_1347351615628191",
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
-			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+			"AppkeyAppodeals": "e380311269fa2fd192ec479195e0d2d64eb6f965ceac2424",
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			"LinkCpa1" : "https://cpbldi.com/911232e",
+			"LinkCpa2" : "https://cpbldi.com/911232e",
 			
-			"watchNow": false,
-			"Rating": false,
-			"LinkCpa2" : "https://google.com/"
+			"watchNow": true,
+			"Rating": false
 		}
 
 	}
