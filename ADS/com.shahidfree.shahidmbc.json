@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "appodeals",
+			"NetworkAds": "facebook",
 
 			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
 			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
@@ -15,11 +15,11 @@
 			
 			"AppkeyAppodeals": "9714d4d12ce8600a4052b8354c5e6482a51529a24094c24b",
 			
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			
-			"watchNow": true,
+			"watchNow": false,
 			"Rating": false
 			
 		}
