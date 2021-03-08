@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "appodeals",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -19,7 +19,7 @@
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
-			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+			"AppkeyAppodeals": "2226b493fd5ab18c3ca87d3ce2472af14d7af4c651ebdeeb",
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
