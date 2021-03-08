@@ -3,13 +3,13 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 
-			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"BannerAdmob1": "ca-app-pub-7390660900657883/5273564671",
+			"BannerAdmob2": "ca-app-pub-7390660900657883/7708156328",
+			"InterstitialAdmob1": "ca-app-pub-7390660900657883/2647401333",
+			"InterstitialAdmob2": "ca-app-pub-7390660900657883/5404592460",
+			"InterstitialAdmob3": "ca-app-pub-7390660900657883/2264257955",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 			"BannerFacebook1": "5061228687280889_5061230447280713",
 			"BannerFacebook2": "5061228687280889_5061230447280713",
@@ -25,7 +25,7 @@
 			"LinkCpa1" : "https://dwnlds.co/efc1f38",
 			"LinkCpa2" : "https://dwnlds.co/efc1f38",
 			
-			"finish": "cpa"
+			"finish": "rate"
 			
 		}
 
