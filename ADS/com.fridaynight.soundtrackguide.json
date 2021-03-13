@@ -25,8 +25,8 @@
 			"LinkCpa1" : "https://cpbild.co/df218aa",
 			"LinkCpa2" : "https://cpbild.co/df218aa",
 			
-			"watchNow": false,
-			"Rating": false
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
