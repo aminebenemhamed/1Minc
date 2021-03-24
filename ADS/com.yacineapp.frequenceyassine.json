@@ -23,8 +23,8 @@
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa1" : "http://sweeps-everyday.com/Netflix/",
-			"LinkCpa2" : "http://sweeps-everyday.com/Netflix/",
+			"LinkCpa1" : "http://sweeps-everyday.com/BeinSport/",
+			"LinkCpa2" : "http://sweeps-everyday.com/BeinSport/",
 			
 			"watchNow": true,
 			"Rating": false
@@ -56,7 +56,7 @@
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			"LinkCpa" : "http://sweeps-everyday.com/BeinSport/",
 			
 			"watchNow": false,
 			"Rating": false,
