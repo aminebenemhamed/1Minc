@@ -1,21 +1,26 @@
 {
-	"myAds": {
+	"GuideData": {
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
-						
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-		
-			"BannerFacebook": "203828667610254_398033171523135",
-			"InterstitialFacebook": "203828667610254_398033618189757",
+			"NetworkAds": "facebook",
 
-			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix/"
+			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
+			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
+
+			"BannerFacebook": "425153681879450_425154198546065",
+			"InterstitialFacebook": "425153681879450_425154878545997",
 			
+			"AppkeyAppodeals": "5f5f47f0b58acda8ac95c6d74acfeb2455bf0231e66b7b32",
+			
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/NqsqdFxx.png", 
+			"LinkCpa" : "http://google.com/",
+			
+			"watchNow": true,
+			"Rating": true
 			
 		}
 
 	}
-}
+	}
