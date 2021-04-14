@@ -21,12 +21,12 @@
 			
 			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
 						
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/uRndzp0.gif", 
 			"LinkCpa1" : "http://sweeps-everyday.com/Shahid/",
       "LinkCpa2" : "http://sweeps-everyday.com/Shahid/",
 			
-			"watchNow": false,
+			"watchNow": true,
 			"Rating": false
 		}
 
