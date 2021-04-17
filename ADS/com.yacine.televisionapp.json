@@ -18,7 +18,7 @@
 			"InterstitialFacebook3": "4062074127189730_4062076243856185",
 		
 			
-			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+			"AppkeyAppodeals": "8ca50d5f5bab4fb6fb5dc4c4db838f570a33f21a56846ad9",
 						
 			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/2RDDXFZ.gif", 
@@ -38,10 +38,10 @@
 			"NetworkAds": "admob",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "99942544/6300978111",
 			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "9942544/1033173712",
+			"InterstitialAdmob3": "99942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 			"BannerFacebook1": "173076897584567_173077344251189",
 			"BannerFacebook2": "173076897584567_173077344251189",
@@ -51,7 +51,7 @@
 			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
 			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
 			
-			"AppkeyAppodeals": "a88426ed230be70f8f9f735d413e8eaca7ea80bca514bdfb",
+			"AppkeyAppodeals": "8ca50d5f5bab4fb6fb5dc4c4db838f570a33f21a56846ad9",
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
