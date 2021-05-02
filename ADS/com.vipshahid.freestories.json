@@ -36,7 +36,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "appodeals",
+			"NetworkAds": "none",
 
 			"BannerAdmob": "ca-app-pub-5941406937735595/5338994960",
 			"InterstitialAdmob": "ca-app-pub-5941406937735595/7773586612",
