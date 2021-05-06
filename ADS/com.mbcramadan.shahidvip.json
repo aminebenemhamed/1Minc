@@ -35,7 +35,7 @@
 
 	"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "appodeal",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -53,12 +53,12 @@
 			
 			"AppkeyAppodeals": "635379c18d0375746f0fbd7d63e83200d1850ba20abc654f",
 						
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/uRndzp0.gif", 
-			"LinkCpa1" : "http://sweeps-everyday.com/Shahid/",
+			"LinkCpa1" : "http://shahidfree.vip/",
       "LinkCpa2" : "http://sweeps-everyday.com/Shahid/",
 			
-			"watchNow": false,
+			"watchNow": true,
 			"Rating": false
 			
 		}
