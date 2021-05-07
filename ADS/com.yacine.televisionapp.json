@@ -35,7 +35,7 @@
 
 	"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "appodeal",
 
 			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
 			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
@@ -52,12 +52,12 @@
 		
 			"AppkeyAppodeals": "8ca50d5f5bab4fb6fb5dc4c4db838f570a33f21a56846ad9",
 						
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/2RDDXFZ.gif", 
 			"LinkCpa1" : "http://sweeps-everyday.com/BeinSport/",
 			"LinkCpa2" : "http://sweeps-everyday.com/BeinSport/",
 			
-			"watchNow": false,
+			"watchNow": true,
 			"Rating": false
 		}
 
