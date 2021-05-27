@@ -1,26 +1,20 @@
 {
-	"GuideData": {
+	"myAds": {
 
 		"AdsController": {
 			
 			"NetworkAds": "facebook",
 
-			"BannerAdmob": "ca-app-pub-2312872132306330/5135942262",
-			"InterstitialAdmob": "ca-app-pub-2312872132306330/2509778923",
+			"BannerAdmob": "ca-app-pub-5561027594829415/6027377178",
+			"InterstitialAdmob": "ca-app-pub-5561027594829415/1990368747",
 
-			"BannerFacebook": "425153681879450_425154198546065",
-			"InterstitialFacebook": "425153681879450_425154878545997",
-			
-			"AppkeyAppodeals": "5f5f47f0b58acda8ac95c6d74acfeb2455bf0231e66b7b32",
-			
-			"Cpa": false,
-			"ImageUrl": "https://i.imgur.com/NqsqdFxx.png", 
-			"LinkCpa" : "http://google.com/",
-			
-			"watchNow": true,
-			"Rating": true
+			"BannerFacebook": "447892579680293_461914611611423",
+			"InterstitialFacebook": "447892579680293_461915274944690",
+
+			"ImageUrl": "https://i.imgur.com/2RDDXFZ.gif", 
+			"LinkCpa" : "http://cpabuild.com/"
 			
 		}
 
 	}
-	}
+}
