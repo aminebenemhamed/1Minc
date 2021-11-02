@@ -1,30 +1,26 @@
 {
-	"myAds": {
+	"GuideData": {
 
 		"AdsController": {
-			
-			"NetworkAds": "admob",
-						
-			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob5": "ca-app-pub-3940256099942544/1033173712",
-		
-			"BannerFacebook1": "203828667610254_398033171523135",
-			"BannerFacebook2": "203828667610254_398033171523135",
-			"InterstitialFacebook1": "203828667610254_398033618189757",
-			"InterstitialFacebook2": "203828667610254_398033618189757",
-			"InterstitialFacebook3": "203828667610254_398033618189757",
-			"InterstitialFacebook4": "203828667610254_398033618189757",
-			"InterstitialFacebook5": "203828667610254_398033618189757",
+			"NetworkAds": "facebook",
 
-			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix/"
-			
-			
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
+			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+
+                        "AppkeyAppodeals": "540355099982459",
+
+                        "Cpa":"false",
+                        "ImageUrl":"https://i.imgur.com/3awNukl.jpeg",
+
+                        "LinkCpa":"https://cpabuild.com",
+                        "watchNow":"false",
+                        "Rating":"false"
+
 		}
 
 	}
