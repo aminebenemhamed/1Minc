@@ -30,7 +30,7 @@
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
@@ -38,12 +38,12 @@
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": false,
+        "isLink": true,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
         "text": "Dark Meadow : The Pact",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
