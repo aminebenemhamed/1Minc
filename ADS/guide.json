@@ -23,15 +23,15 @@
       {
         "title": "Dark Meadow: The Pact",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
+        "color": "#FFFFFF",
         "text_size": "25",
         "isLink": true,
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
+        "text": "sdsdasdsdasd ssa dadas dasd hfduydrexfg durtdcyr ut tdcezxre f jknbybut tvbtrvyt utvfcv u c df dutcvt urvutvyrcyrtc",
         "isNative": true,
-		"background": "#00FF00"
+		"background": "#191919"
       },
       {
         "title": "The Old 2",
@@ -44,7 +44,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": true,
-		"background": "#00FF00"
+		"background": "#191919"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -57,7 +57,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#191919"
       },
       {
         "title": "Dead Space Android",
@@ -70,7 +70,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#191919"
       },
       {
         "title": "Bloody Mary",
@@ -83,7 +83,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#191919"
       },
       {
         "title": "Twisted Lands: Shadow Town",
@@ -96,7 +96,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#191919"
       }
     ]
 
