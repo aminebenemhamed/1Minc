@@ -1,66 +1,28 @@
 {
-	"Google": {
+	"MyApp": {
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "startapp",
 
-			"BannerAdmob1": "ca-app-pub-9104620078136704/9988910122",
-			"BannerAdmob2": "ca-app-pub-9104620078136704/9988910122",
-			"InterstitialAdmob1": "ca-app-pub-9104620078136704/2431011979",
-			"InterstitialAdmob2": "ca-app-pub-9104620078136704/2431011979",
-			"InterstitialAdmob3": "ca-app-pub-9104620078136704/2431011979",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "1347348165628536_1347349145628438",
-			"BannerFacebook2": "1347348165628536_1347354132294606",
-			"InterstitialFacebook1": "1347348165628536_1347353132294706",
-			"InterstitialFacebook2": "1347348165628536_1347354445627908",
-			"InterstitialFacebook3": "1347348165628536_1347351615628191",
-			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
-			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
+			"BannerAdmob": "ca-app-pub-9104620078136704/9988910122",
+			"InterstitialAdmob": "ca-app-pub-9104620078136704/2431011979",
+		
+			"BannerFacebook": "1347348165628536_1347349145628438",
+			"InterstitialFacebook": "1347348165628536_1347353132294706",
+	
+			"StartappAds": "210349981",
 			
 			"AppkeyAppodeals": "e380311269fa2fd192ec479195e0d2d64eb6f965ceac2424",
 						
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa1" : "https://cpbldi.com/911232e",
-			"LinkCpa2" : "https://cpbldi.com/911232e",
+			"LinkCpa2" : "https://google.com/",
 			
 			"watchNow": true,
 			"Rating": true
 			
-		}
-
-	},
-	"Huawei": {
-
-	"AdsController": {
-			
-			"NetworkAds": "appodeals",
-
-			"BannerAdmob1": "ca-app-pub-2593018812622008/3170840046",
-			"BannerAdmob2": "ca-app-pub-2593018812622008/8614738414",
-			"InterstitialAdmob1": "ca-app-pub-2593018812622008/2979268351",
-			"InterstitialAdmob2": "ca-app-pub-2593018812622008/4418319011",
-			"InterstitialAdmob3": "ca-app-pub-2593018812622008/9161533323",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"BannerFacebook1": "1347348165628536_1347349145628438",
-			"BannerFacebook2": "1347348165628536_1347354132294606",
-			"InterstitialFacebook1": "1347348165628536_1347353132294706",
-			"InterstitialFacebook2": "1347348165628536_1347354445627908",
-			"InterstitialFacebook3": "1347348165628536_1347351615628191",
-			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
-			"BannerNativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_700132117338089",
-			
-			"AppkeyAppodeals": "d937ef432b23a34ecb2b371ee7e031bdd1bc0153315380ed",
-						
-			"Cpa": false,
-			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa1" : "https://cpbldi.com/911232e",
-			"LinkCpa2" : "https://cpbldi.com/911232e",
-			
-			"watchNow": true,
-			"Rating": false
 		}
 
 	}
