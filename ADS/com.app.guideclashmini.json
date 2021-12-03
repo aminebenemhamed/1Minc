@@ -1,0 +1,23 @@
+{
+	"myAds": {
+
+		"AdsController": {
+			
+			"NetworkAds": "startapp",
+						
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+		
+			"BannerFacebook": "203828667610254_398033171523135",
+			"InterstitialFacebook": "203828667610254_398033618189757",
+			
+			"StartappAds": "210349981",
+
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/"
+			
+			
+		}
+
+	}
+}
