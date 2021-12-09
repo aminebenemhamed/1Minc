@@ -1,0 +1,44 @@
+[
+
+	{
+		"name": "PEOPLE PLAYGROUND",
+		"description": "People Playground is a 2019 indie gory sandbox video game developed by mestiez and published by Studio Minus. It was released on Steam for Microsoft Windows on July 23, 2019. The game features a wide variety of items, including firearms, melee weapons, explosives, vehicles and more, along with several widely open maps to play in. There is no end goal to this game, since it is a sandbox, with the main purpose of the game being spawning and killing ragdolls in a wide variety of ways, hence the official description shoot, stab, burn, poison, tear, vaporize, or crush ragdolls in a large open space. This game also allows modding, where players could create custom modifications for this game to share for the public.",
+		"img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118200/capsule_616x353.jpg?t=1629580411"
+	},
+	{
+		"name": "Humans",
+		"description": "Humans are delicate, fragile creatures with intelligent minds, who are the main characters tortured in the People Playground game.\n\n They are depicted as white, naked characters with dot eyes and no hair, causing them to look almost like a marshmallow man if they are scaled with the Resize  option in the drop-down menu. \n\n  Humans, being the weakest living being in the game, are crushed, stabbed, shot, exploded and tortured with ease, unlike Androids, who are strong and resistant to most things.\n\n Upon turning on the Expanded Gore setting within Options, newly spawned humans have Brains in their Heads, which are also attached to the Eyes of the human.\n\n Expanded Gore also reveals long Intestines when the Middle body is seperated from the Lower body, possibly meaning that humans are capable of defecation.\n\n Not killing a Human for 2 hours should, but sometimes doesn't, give the player the Pacifist Achievement\n\n Humans are also the most customized in character Mods, being given many different appearances in most Mods, given functionality in a few and even gaining AI in one!\n\n",
+		"img": "https://i.ytimg.com/vi/UWHtIeprg18/maxresdefault.jpg"
+	},
+	{
+		"name": "Industrial Generator",
+		"description": "The Industrial Generator is used to power objects, make cars go faster, and to electrocute Humans and many others objects. \n\n How to use \n Like many other objects in the game, you must press f  on the generator or right click on the object and click activate) \n Once done I recommend turning it on last ) go to tools, connect the generator to a wire then connect any other object to the wire, once you turn it on it will supercharge (Or shock) what it was connected to.\n The Industrial Generator is highly unstable, and may cause unexpected outcomes.\n The more generators you have, the more powerful the charged object is (example, 5 generators could turn a car into a laser).",
+		"img": "https://static.wikia.nocookie.net/people-playground-game/images/d/d5/Pink_Syringe.png/revision/latest/scale-to-width-down/180?cb=20200701152534"
+	},
+	{
+		"name": "Mods",
+		"description": "Mods are community-created modifications to the game, which can range from small quality of life fixes and mods to overhauls and massive changes. They are what keep People Playground popular when it isn't being updated by Zooi. \n\n Types May Include : \n New Human Appearances \n New Robot Appearances \n New Gorse Appearances \n More Ranged Weapons \n More Melee Weapons \n More Explosives \n AI \n Poses and Animations \n Maps \n More Vehicles \n More Junk \n More Syringes and Fluids \n More Machinery \n Ammo System for Guns and Ranged Weapons \n Power \n References \n Everything else \n\n Mods are not official, therefore, you may end up installing 18+ and/or malicious mods without knowing them that much. If you have enough skills, knowledge, and creativity, you may want to take the journey of modding the game and becoming a modder.",
+		"img": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/35398057/68b0bedff7b8632b386ba66666a6119701ccd8c1.png"
+	},
+	{
+		"name": "Pacifist",
+		"description": "Play the game for an hour in one session without murdering anything \n\n Pacifist is a secret achievement that involves a task where you can't kill any Entities for 1 hour \n In game Play the game for an hour in one session without murdering anything The Pacifist achievement is granted when you don't kill any Entity for one hour of gameplay. This achievement requires the player to also be active during this hour, meaning going AFK for the achievement is not a strategy.",
+		"img": "https://static.wikia.nocookie.net/people-playground-game/images/4/4a/Pacifist.png/revision/latest/scale-to-width-down/64?cb=20210707051807"
+	},
+	{
+		"name": "Tritium",
+		"description": "Tritium is an unique liquid obtained by extracting it from an atom bomb. Tritium is a green liquid, appearing as a slightly desaturated version of gorse blood. It emits a slight green glow while occupying any liquid container. When injected into a living creature, said living creature starts glowing. Tritium seemingly poisons the creature, as it starts flailing around from time to time, gradually losing conciousness until it dies a while later. It has no effect on robots, and the blood of any creature injected with Tritium will be radioactive.",
+		"img": "https://static.wikia.nocookie.net/people-playground-game/images/b/bd/Tritium_flask.png/revision/latest/scale-to-width-down/180?cb=20211208195313"
+	},
+	{
+		"name": "Exotic Fluid",
+		"description": "Exotic Fluid is a special liquid only obtainable by mixing Tritium and Water Breathing Serum at a 1:1 ratio  Exotic Fluid is an incredibly saturated deep blue liquid. When occupying any sort of liquid container, it generates blue sparks around itself. To create Exotic Fluid, you must mix Tritium and Water Breathing Serum at a 1:1 ratio. A simple method for this is to fill 2 separate flasks with Tritium and Water Breathing Serum and then distribute both of the liquids into a Blood Tank. The reaction that creates the fluid takes some time to complete, so you should wait before tampering with it. Exotic Fluid has a purity that directly relates to the ratio of Tritium to Water Breathing Serum. If the ratio is 1:1, the Exotic Fluid will be 100% pure. The purity of the fluid can be tested by putting it inside of a Liquidentifier. If the liquid is identified as 100% Exotic Fluid, then it is completely pure. Exotic Fluid does not seem to have any special effects when injected into something",
+		"img": "https://static.wikia.nocookie.net/people-playground-game/images/e/eb/Exotic.png/revision/latest/scale-to-width-down/180?cb=20210719071900"
+	},
+	{
+		"name": "Mystery fluids",
+		"description": "Mystery fluids were added in the 1.19.1 version, and updated in the 1.21 adding more of them. They are hidden liquids and mixes of other liquids. I saw people call the mixing of liquids chemistry or alchemy, so both are in the title. This page is for the summary of all available information on the subject (the new fluids and the previously mentioned mystery fluids) and add pages for the ones that don't have one yet. These are liquids that do not have to be created via mixing. So far , the only known liquid of this type is Tritium. These are mystery fluids that can only be created by mixing others. Exotic fluid - (Tritium + Water Breathing Serum 1:1 ratio) - Added in 1.19.1. A strange blue liquid. It has no effect when injected into something. Page available. Immortality serum (Tritium + Mending Serum 1:1 ratio) - Added in 1.21. A yellow liquid that grants (temporary?) immortality when injected into something. Page unavailable. Immortality serum (Tritium + Mending Serum 1:1 ratio) - Added in 1.21. A yellow liquid that grants (temporary?) immortality when injected into something.",
+		"img": "https://static.wikia.nocookie.net/people-playground-game/images/5/54/Mystery_fluids.png/revision/latest/scale-to-width-down/180?cb=20211208215857"
+	}
+
+]
