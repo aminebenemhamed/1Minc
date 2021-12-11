@@ -1,0 +1,71 @@
+[{
+		"name": "Importante",
+		"description": "Si la transmisión no funciona, espere unos minutos y vuelva a intentarlo más tarde, o pruebe con otro servidor.",
+		"img": "https://i.imgur.com/nAjODj2.png"
+	},
+	{
+		"name": "Servidor 1",
+		"description": "",
+		"img": "https://i.imgur.com/Y0RjXvI.png"
+	},
+	{
+		"name": "Servidor 2",
+		"description": "",
+		"img": "https://i.imgur.com/rhMew4C.png"
+	},
+	{
+		"name": "Servidor 3",
+		"description": "",
+		"img": "https://i.imgur.com/klMKTzZ.png"
+	},
+	{
+		"name": "Servidor 4",
+		"description": "",
+		"img": "https://i.imgur.com/BgyQhtg.png"
+	},
+	{
+		"name": "Servidor 5",
+		"description": "",
+		"img": "https://i.imgur.com/hqWrkjr.png"
+	},
+	{
+		"name": "Servidor 6",
+		"description": "",
+		"img": "https://i.imgur.com/2dAGYWq.png"
+	},
+	{
+		"name": "Servidor 7",
+		"description": "https://i.imgur.com/wrm1rMu.png",
+		"img": ""
+	},
+	{
+		"name": "Servidor 8",
+		"description": "https://i.imgur.com/mq3JhxD.png",
+		"img": ""
+	},
+	{
+		"name": "Servidor 9",
+		"description": "https://i.imgur.com/EC3ebAx.png",
+		"img": ""
+	},
+	{
+		"name": "Servidor 10",
+		"description": "",
+		"img": "https://i.imgur.com/UxhocRf.png"
+	},
+	{
+		"name": "NET TV",
+		"description": "",
+		"img": "https://i.imgur.com/s7ZdHGQ.png"
+	},
+	{
+		"name": "América",
+		"description": "",
+		"img": "https://i.imgur.com/R9xwzYI.png"
+	},
+  {
+		"name": "Telefe",
+		"description": "",
+		"img": "https://i.imgur.com/s3rDnzq.png"
+	}
+]
