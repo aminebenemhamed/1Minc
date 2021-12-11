@@ -5,8 +5,8 @@
 			
 			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-4385500700889258/3205394099",
-			"InterstitialAdmob": "ca-app-pub-4385500700889258/5256842362",
+			"BannerAdmob": "ca-app-pub-4385500700889258/8653256380",
+			"InterstitialAdmob": "ca-app-pub-4385500700889258/2040387202",
 		
 			"BannerFacebook": "1347348165628536_1347349145628438",
 			"InterstitialFacebook": "1347348165628536_1347353132294706",
@@ -20,8 +20,8 @@
 			"LinkCpa1" : "https://cpbldi.com/911232e",
 			"LinkCpa2" : "https://google.com/",
 			
-			"watchNow": true,
-			"Rating": true
+			"watchNow": false,
+			"Rating": false
 			
 		}
 
