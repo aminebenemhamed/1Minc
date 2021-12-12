@@ -3,7 +3,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "appodeal",
+			"NetworkAds": "startapp",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
@@ -29,7 +29,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "appodeal",
+			"NetworkAds": "startapp",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
