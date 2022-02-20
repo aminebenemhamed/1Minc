@@ -1,26 +1,26 @@
 {
-	"GuideData": {
+	"MyApp": {
 
 		"AdsController": {
-			"NetworkAds": "facebook",
+			
+			"NetworkAds": "startapp",
 
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-			"BannerFacebook": "IMG_16_9_APP_INSTALL#540355099982459_540356136649022",
-			"InterstitialFacebook": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1106688919711000_1106690623044163",
-			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
-
-                        "AppkeyAppodeals": "540355099982459",
-
-                        "Cpa":"false",
-                        "ImageUrl":"https://i.imgur.com/3awNukl.jpeg",
-
-                        "LinkCpa":"https://cpabuild.com",
-                        "watchNow":"false",
-                        "Rating":"false"
-
+			"BannerAdmob": "ca-app-pub-4385500700889258/8653256380",
+			"InterstitialAdmob": "ca-app-pub-4385500700889258/2040387202",
+		
+			"BannerFacebook": "1347348165628536_1347349145628438",
+			"InterstitialFacebook": "1347348165628536_1347353132294706",
+	
+			"StartappAds": "204818841",
+									
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa1" : "https://www.sweeps-everyday.com/Netflix/",
+			"LinkCpa2" : "https://www.sweeps-everyday.com/Netflix/",
+			
+			"watchNow": false,
+			"Rating": false
+			
 		}
 
 	}
