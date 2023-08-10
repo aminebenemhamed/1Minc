@@ -1,18 +1,20 @@
-[
-    {
-        "image": "q1",
-        "title": "Movie 1"
-    },
-    {
-        "image": "q2",
-        "title": "Movie 2"
-    },
-    {
-        "image": "q3",
-        "title": "Movie 3"
-    },
-    {
-        "image": "q4",
-        "title": "Movie 4"
-    }
-]
+{
+    "items": [
+        {
+            "image": "q1",
+            "title": "Movie 1"
+        },
+        {
+            "image": "q2",
+            "title": "Movie 2"
+        },
+        {
+            "image": "q3",
+            "title": "Movie 3"
+        },
+        {
+            "image": "q4",
+            "title": "Movie 4"
+        }
+    ]
+}
