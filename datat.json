@@ -1,14 +1,18 @@
 [
-  {
-    "imageUrl": "https://example.com/image1.jpg",
-    "labelText": "Item 1"
-  },
-  {
-    "imageUrl": "https://example.com/image2.jpg",
-    "labelText": "Item 2"
-  },
-  {
-    "imageUrl": "https://example.com/image3.jpg",
-    "labelText": "Item 3"
-  }
+    {
+        "image": "q1",
+        "title": "Movie 1"
+    },
+    {
+        "image": "q2",
+        "title": "Movie 2"
+    },
+    {
+        "image": "q3",
+        "title": "Movie 3"
+    },
+    {
+        "image": "q4",
+        "title": "Movie 4"
+    }
 ]
