@@ -1,0 +1,17 @@
+[
+  {
+    "Category_Name": "Category 1",
+    "Category_url": "https://pastebin.com/raw/iX6htgin",
+    "Category_img": "https://s.namemc.com/3d/skin/body.png?id=3e4eca3090958fce&model=classic&width=282&height=282"
+  },
+  {
+    "Category_Name": "Category 2",
+    "Category_url": "https://raw.githubusercontent.com/aminebenemhamed/applications/gh-pages/data/skinscat2.json",
+    "Category_img": "https://s.namemc.com/3d/skin/body.png?id=0e34bf296b133d14&model=slim&width=384&height=384"
+  },
+    {
+    "Category_Name": "Category 3",
+    "Category_url": "https://raw.githubusercontent.com/aminebenemhamed/applications/gh-pages/data/skincat3.json",
+    "Category_img": "https://s.namemc.com/3d/skin/body.png?id=7ac6a8bd6a44746b&model=slim&width=384&height=384"
+  }
+]
