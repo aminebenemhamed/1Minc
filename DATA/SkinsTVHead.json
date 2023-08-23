@@ -1,0 +1,182 @@
+[
+    {
+      "id":1,
+      "name_skin":"Skin 1",
+      "skin_url":"https://s.namemc.com/i/ab393be14898d9fb.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=ab393be14898d9fb&model=classic&width=384&height=384"
+    },
+	{
+      "id":2,
+      "name_skin":"Skin 2",
+      "skin_url":"https://s.namemc.com/i/2b4ad6b239b43ff2.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=2b4ad6b239b43ff2&model=classic&width=384&height=384"
+    },
+	{
+      "id":3,
+      "name_skin":"Skin 3",
+      "skin_url":"https://s.namemc.com/i/6cd410faecf227b0.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=6cd410faecf227b0&model=classic&width=384&height=384"
+    },
+	{
+      "id":4,
+      "name_skin":"Skin 4",
+      "skin_url":"https://s.namemc.com/i/a793084df9741c72.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=a793084df9741c72&model=slim&width=384&height=384"
+    },
+	{
+      "id":5,
+      "name_skin":"Skin 5",
+      "skin_url":"https://s.namemc.com/i/0637c5c31069035a.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=0637c5c31069035a&model=slim&width=384&height=384"
+    },
+	{
+      "id":6,
+      "name_skin":"Skin 6",
+      "skin_url":"https://s.namemc.com/i/e2dca014de74d18f.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=e2dca014de74d18f&model=slim&width=384&height=384"
+    },
+	{
+      "id":7,
+      "name_skin":"Skin 7",
+      "skin_url":"https://s.namemc.com/i/f00fc8f5144b66f4.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=f00fc8f5144b66f4&model=classic&width=384&height=384"
+    },
+	{
+      "id":8,
+      "name_skin":"Skin 8",
+      "skin_url":"https://s.namemc.com/i/836e66e7e8c5d0c0.png",
+      "view_skin":"https://s.namemc.com/3d/skin/body.png?id=836e66e7e8c5d0c0&model=slim&width=384&height=384"
+    },
+	{
+      "id":9,
+      "name_skin":"Skin 9",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin9.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"Skin 10",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin10.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/10.png"
+    },
+	 {
+      "id":11,
+      "name_skin":"Skin 11",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin11.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"Skin 12",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin12.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"Skin 13",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin13.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"Skin 14",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin14.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"Skin 15",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin15.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"Skin 16",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin16.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"Skin 17",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin17.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"Skin 18",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin18.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"Skin 19",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin19.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"Skin 20",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin20.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/20.png"
+    },
+	 {
+      "id":21,
+      "name_skin":"Skin 21",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin21.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"Skin 22",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin22.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"Skin 23",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin23.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"Skin 24",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin24.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"Skin 25",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin25.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"Skin 26",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin26.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"Skin 27",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin27.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"Skin 28",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin28.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"Skin 29",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin29.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"Skin 30",
+      "skin_url":"https://executead.github.io/gambar/chochochalie/skin30.png",
+      "view_skin":"https://executead.github.io/gambar/chochochalie/30.png"
+    }
+  ]
